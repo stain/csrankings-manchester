@@ -1,89 +1,89 @@
-name,role,url,area,area_url,scholar_id
-Mauricio Alvarez,Senior Lecturer,https://www.research.manchester.ac.uk/portal/en/researchers/mauricio-alvarez(d531fef7-ad55-4038-bee9-28c1afcd6035).html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,vrb4a_wAAAAJ
-Sophia Ananiadou,Professor,https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html,Natural language processing and text mining,/research/expertise/natural-language-processing/,quhi-K0AAAAJ
-Richard Banach,Senior Lecturer,https://www.research.manchester.ac.uk/portal/richard.banach.html,Systems and software security,/research/expertise/systems-and-software-security/,l0KTTxcAAAAJ
-Riza Theresa Batista-Navarro,Senior Lecturer,https://www.research.manchester.ac.uk/portal/riza.batista.html,Natural language processing and text mining,/research/expertise/natural-language-processing/,
-Sean Bechhofer,"Reader in Computer Science, Director of Teaching and Learning",https://www.research.manchester.ac.uk/portal/sean.bechhofer.html,Teaching,,XRzaza0AAAAJ
-Davide Bertozzi,Reader,https://research.manchester.ac.uk/en/persons/davide-bertozzi,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,ag6MWiUAAAAJ
-Stewart Blakeway,Lecturer,https://www.research.manchester.ac.uk/portal/stewart.blakeway.html,Teaching,,gphOY8gAAAAJ
-Andrew Brass,Professor,https://www.research.manchester.ac.uk/portal/andy.brass.html,Human computer systems,/research/expertise/human-computer-systems/,QOoq0_sAAAAJ
-Gavin Brown,Professor,https://www.research.manchester.ac.uk/portal/gavin.brown.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,IGApvF0AAAAJ
-Angelo Cangelosi,"Professor, Deputy Director of Research",https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,NyoHewcAAAAJ
-Tom Carroll,Lecturer,https://www.research.manchester.ac.uk/portal/thomas.carroll.html,Teaching,,
-Jiaoyan Chen,Lecturer,https://research.manchester.ac.uk/en/persons/jiaoyan.chen,Information management,/research/expertise/information-management/,5Cy4z8wAAAAJ
-Ke Chen,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ke.chen.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,-pGdSi4AAAAJ
-Sarah Clinch,Senior Lecturer,https://www.research.manchester.ac.uk/portal/sarah.clinch.html,Human computer systems,/research/expertise/human-computer-systems/,JBwY2kAAAAAJ
-Emily Collins,Dame Kathleen Ollerenshaw Fellow,https://research.manchester.ac.uk/en/persons/e.c.collins,Autonomy and verification,/research/expertise/autonomy-and-verification/,OIcNb2QAAAAJ
-Lucas Cordeiro,"Reader, Director of the ARM Center of Excellence",https://www.research.manchester.ac.uk/portal/lucas.cordeiro.html,Systems and software security,/research/expertise/systems-and-software-security/,Lje1SFgAAAAJ
-Alex Creswell,Chair in Digital And Artificial Intelligence,,Systems and software security,/research/expertise/systems-and-software-security/,
-Louise Dennis,Reader,https://www.research.manchester.ac.uk/portal/louise.dennis.html,Autonomy and verification,/research/expertise/autonomy-and-verification/,5d8ouI8AAAAJ
-Clare Dixon,School of Engineering Deputy Head of Research and Computer Science Research Lead,https://www.research.manchester.ac.uk/portal/clare.dixon.html,Autonomy and verification,/research/expertise/autonomy-and-verification/,ySfW34EAAAAJ
-Daniel Dresner,Professor,,Systems and software security,/research/expertise/systems-and-software-security/,PiEzm-AAAAAJ
-Suzanne Embury,Reader,https://www.research.manchester.ac.uk/portal/suzanne.m.embury.html,Information management,/research/expertise/information-management/,ALuTB-gAAAAJ
-Marie Farrell,Royal Academy of Engineering Fellow,https://research.manchester.ac.uk/en/persons/marie-farrell,Autonomy and verification,/research/expertise/autonomy-and-verification/,x5mgmY8AAAAJ
-Michael Fisher,"Professor, Royal Academy of Engineering Chair in Emerging Technologies",https://personalpages.manchester.ac.uk/staff/michael.fisher,Autonomy and verification,/research/expertise/autonomy-and-verification/,ObjR3wwAAAAJ
+name,role,url,scholar_id,orcid
+Mauricio Alvarez,Senior Lecturer,https://www.research.manchester.ac.uk/portal/en/researchers/mauricio-alvarez(d531fef7-ad55-4038-bee9-28c1afcd6035).html,vrb4a_wAAAAJ,https://orcid.org/0000-0002-8980-4472
+Sophia Ananiadou,Professor,https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html,quhi-K0AAAAJ,https://orcid.org/0000-0002-4097-9191
+Richard Banach,Senior Lecturer,https://www.research.manchester.ac.uk/portal/richard.banach.html,l0KTTxcAAAAJ,https://orcid.org/0000-0002-0243-9434
+Riza Theresa Batista-Navarro,Senior Lecturer,https://www.research.manchester.ac.uk/portal/riza.batista.html,fRBJmp9gk_cC,https://orcid.org/0000-0001-6693-7531
+Sean Bechhofer,"Reader in Computer Science, Director of Teaching and Learning",https://www.research.manchester.ac.uk/portal/sean.bechhofer.html,XRzaza0AAAAJ,https://orcid.org/0000-0002-5872-3573
+Davide Bertozzi,Reader,https://research.manchester.ac.uk/en/persons/davide-bertozzi,ag6MWiUAAAAJ,https://orcid.org/0000-0001-7462-4551
+Stewart Blakeway,Lecturer,https://www.research.manchester.ac.uk/portal/stewart.blakeway.html,gphOY8gAAAAJ,
+Andrew Brass,Professor,https://www.research.manchester.ac.uk/portal/andy.brass.html,QOoq0_sAAAAJ,https://orcid.org/0000-0002-0389-7058
+Gavin Brown,Professor,https://www.research.manchester.ac.uk/portal/gavin.brown.html,IGApvF0AAAAJ,https://orcid.org/0000-0003-2261-9018
+Angelo Cangelosi,"Professor, Deputy Director of Research",https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html,NyoHewcAAAAJ,https://orcid.org/0000-0002-4709-2243
+Tom Carroll,Lecturer,https://www.research.manchester.ac.uk/portal/thomas.carroll.html,,https://orcid.org/0000-0002-3020-2661
+Jiaoyan Chen,Lecturer,https://research.manchester.ac.uk/en/persons/jiaoyan.chen,5Cy4z8wAAAAJ,https://orcid.org/0000-0003-4643-6750
+Ke Chen,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ke.chen.html,-pGdSi4AAAAJ,https://orcid.org/0000-0001-9457-9364
+Sarah Clinch,Senior Lecturer,https://www.research.manchester.ac.uk/portal/sarah.clinch.html,JBwY2kAAAAAJ,https://orcid.org/0000-0002-9305-4774
+Emily Collins,Dame Kathleen Ollerenshaw Fellow,https://research.manchester.ac.uk/en/persons/e.c.collins,OIcNb2QAAAAJ,https://orcid.org/0000-0001-9396-536X
+Lucas Cordeiro,"Reader, Director of the ARM Center of Excellence",https://www.research.manchester.ac.uk/portal/lucas.cordeiro.html,Lje1SFgAAAAJ,https://orcid.org/0000-0002-6235-4272
+Alex Creswell,Chair in Digital And Artificial Intelligence,,,
+Louise Dennis,Reader,https://www.research.manchester.ac.uk/portal/louise.dennis.html,5d8ouI8AAAAJ,https://orcid.org/0000-0003-1426-1896
+Clare Dixon,School of Engineering Deputy Head of Research and Computer Science Research Lead,https://www.research.manchester.ac.uk/portal/clare.dixon.html,ySfW34EAAAAJ,https://orcid.org/0000-0002-4610-9533
+Daniel Dresner,Professor,,PiEzm-AAAAAJ,
+Suzanne Embury,Reader,https://www.research.manchester.ac.uk/portal/suzanne.m.embury.html,ALuTB-gAAAAJ,https://orcid.org/0000-0002-3711-0778
+Marie Farrell,Royal Academy of Engineering Fellow,https://research.manchester.ac.uk/en/persons/marie-farrell,x5mgmY8AAAAJ,https://orcid.org/0000-0001-7708-3877
+Michael Fisher,"Professor, Royal Academy of Engineering Chair in Emerging Technologies",https://personalpages.manchester.ac.uk/staff/michael.fisher,ObjR3wwAAAAJ,
 Alejandro Frangi,"Professor, Bicentennial Turing Chair in Computational Medicine, 
 Royal Academy of Engineering Chair in Emerging Technologies, 
-Director of the Christabel Pankhurst Institute.",,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,9fGrB0sAAAAJ
-Andre Freitas,Senior Lecturer,https://www.research.manchester.ac.uk/portal/andre.freitas.html,Information management,/research/expertise/information-management/,ExmHmMoAAAAJ
-Steve Furber,ICL Professor,https://www.research.manchester.ac.uk/portal/steve.furber.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,jLnsiBEAAAAJ
-Aphrodite Galata,Lecturer,https://www.research.manchester.ac.uk/portal/a.galata.html,Human computer systems,/research/expertise/human-computer-systems/,vAY0HccAAAAJ
-James Garside,Senior Lecturer,https://www.research.manchester.ac.uk/portal/james.garside.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,
-Carole Goble,Professor,https://www.research.manchester.ac.uk/portal/carole.goble.html,Information management,/research/expertise/information-management/,2G4kqPYAAAAJ
-John Goodacre,Professor,https://www.research.manchester.ac.uk/portal/john.goodacre.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,MJtl3X4AAAAJ
-Simon Harper,Director of PGR,https://www.research.manchester.ac.uk/portal/simon.harper.html,Human computer systems,/research/expertise/human-computer-systems/,SQEdResAAAAJ
-Gareth Henshall,Lecturer,,Teaching,,whFye-4AAAAJ
-Duncan Hull,Lecturer,https://www.research.manchester.ac.uk/portal/duncan.hull.html,Teaching,,iDJ-t7IAAAAJ
-Caroline Jay,"Professor of Computer Science, Head of Research in the School of Engineering",https://www.research.manchester.ac.uk/portal/caroline.jay.html,Human computer systems,/research/expertise/human-computer-systems/,AR0vM2QAAAAJ
-Sami Kaski,Professor of Artificial Intelligence,https://www.research.manchester.ac.uk/portal/samuel.kaski.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,uF6H9jMAAAAJ
-John Keane,"Professor, Director of Business Engagement",https://research.manchester.ac.uk/en/persons/john-keane,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,
-Dirk Koch,Reader,https://www.research.manchester.ac.uk/portal/dirk.koch.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,GlZ0Vw8AAAAJ
-Konstantin Korovin,Reader,https://research.manchester.ac.uk/en/persons/konstantin-korovin,Formal methods,/research/expertise/formal-methods/,NCNsDlYAAAAJ
-Christos-Efthymios Kotselidis,Reader,https://www.research.manchester.ac.uk/portal/christos.kotselidis.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,
-Kung-Kiu Lau,Senior Lecturer,https://www.research.manchester.ac.uk/portal/kung-kiu.lau.html,Information management,/research/expertise/information-management/,
-Chenghua Lin,Professor,https://research.manchester.ac.uk/en/persons/chenghua-lin,Natural language processing and text mining,/research/expertise/natural-language-processing/,Tp1RdIQAAAAJ
-Francisco Lobo,Lecturer,,Teaching,,
-Mikel Lujan,Professor (RAEng Chair),,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,X7USiLMAAAAJ
-Bernardo Magri,Senior Lecturer,https://www.research.manchester.ac.uk/portal/bernardo.magri.html,Systems and software security,/research/expertise/systems-and-software-security/,B3FerDQAAAAJ
-Zahra Montazeri,Lecturer,https://www.research.manchester.ac.uk/portal/zahra.montazeri.html,Human computer systems,/research/expertise/human-computer-systems/,WwncYUcAAAAJ
-Terence Morley,Lecturer,https://research.manchester.ac.uk/en/persons/terence.morley,Teaching,,kYwP6n0AAAAJ
-Tim Morris,Senior Lecturer,https://www.research.manchester.ac.uk/portal/tim.morris.html,Human computer systems,/research/expertise/human-computer-systems/,
-Christoforos Moutafis,Senior Lecturer,https://www.research.manchester.ac.uk/portal/christoforos.moutafis.html,Nano-engineering and spintronic technologies,/research/expertise/nano-engineering/,adiGYU8AAAAJ
-Tingting Mu,Senior Lecturer,https://www.research.manchester.ac.uk/portal/tingting.mu.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,dOG10IUAAAAJ
-Anirbit Mukherjee,Lecturer in Machine Learning,https://www.research.manchester.ac.uk/portal/anirbit.mukherjee.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,V32KjH0AAAAJ
-Mustafa Mustafa,"Senior Lecturer, Lead of Trusted Digital Systems cluster",https://www.research.manchester.ac.uk/portal/mustafa.mustafa.html,Systems and software security,/research/expertise/systems-and-software-security/,lP0z5wEAAAAJ
-Goran Nenadic,Professor,https://www.research.manchester.ac.uk/portal/gnenadic.html,Natural language processing and text mining,/research/expertise/natural-language-processing/,CyTXHuUAAAAJ
-Wei Pan,Senior Lecturer,https://www.research.manchester.ac.uk/portal/en/researchers/wei-pan(7543834f-4e4d-4596-9038-11ce2d879f9e).html,Machine Learning and Robotics,/research/expertise/machine-learning-and-robotics/,GqryWPsAAAAJ
-Paul Nutter,"Reader, Director of Undergraduate Studies",https://www.research.manchester.ac.uk/portal/p.nutter.html,Nano-engineering and spintronic technologies,/research/expertise/nano-engineering/,Phqin7oAAAAJ
-Pierre Olivier,Senior Lecturer,https://www.research.manchester.ac.uk/portal/pierre.olivier.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,rBr5a7UAAAAJ
-Bijan Parsia,Professor,https://www.research.manchester.ac.uk/portal/bijan.parsia.html,Information management,/research/expertise/information-management/,UBcjZigAAAAJ
-Norman Paton,Professor,https://www.research.manchester.ac.uk/portal/norman.paton.html,Information management,/research/expertise/information-management/,X-9OH6AAAAAJ
-Vasileios Pavlidis,Senior Lecturer,https://www.research.manchester.ac.uk/portal/vasileios.pavlidis.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,-hDlKqwAAAAJ
-Pavlos Petoumenos,Lecturer,https://www.research.manchester.ac.uk/portal/pavlos.petoumenos.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,0fpFdr4AAAAJ
-Stephen Pettifer,"Professor, Director of Teaching Strategy, Associate Dean for Teaching",https://www.research.manchester.ac.uk/portal/steve.pettifer.html,Human computer systems,/research/expertise/human-computer-systems/,yUwh2bEAAAAJ
-Ian Pratt-Hartmann,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ian.pratt.html,Formal methods,/research/expertise/formal-methods/,M1xicaEAAAAJ
-Joseph Razavi,Lecturer,https://research.manchester.ac.uk/en/persons/joseph.razavi,Teaching,,
-Giles Reger,Senior Lecturer,https://www.research.manchester.ac.uk/portal/giles.reger.html,Formal methods,/research/expertise/formal-methods/,Js3EdsEAAAAJ
-Oliver Rhodes,Senior Lecturer,https://www.research.manchester.ac.uk/portal/oliver.rhodes.html, Advanced processor technologies,/research/expertise/advanced-processor-technologies/,YKS52KIAAAAJ
-Graham Riley,Lecturer,https://www.research.manchester.ac.uk/portal/graham.riley.html,Advanced processor technologies,/research/expertise/advanced-processor-technologies/,OaRHgWIAAAAJ
-Rizos Sakellariou,Professor,https://www.research.manchester.ac.uk/portal/rizos.html,Information management,/research/expertise/information-management/,5LPRRM8AAAAJ
-Sandra Sampaio,Lecturer,https://www.research.manchester.ac.uk/portal/s.sampaio.html,Information management,/research/expertise/information-management/,
-Uli Sattler,"Professor, Deputy Head of Department",https://www.research.manchester.ac.uk/portal/uli.sattler.html,Information management,/research/expertise/information-management/,uMI-tgsAAAAJ
-Andrea Schalk,Senior Lecturer,https://www.research.manchester.ac.uk/portal/andrea.schalk.html,Formal methods,/research/expertise/formal-methods/,odEJK7EAAAAJ
-Renate Schmidt,Reader,https://www.research.manchester.ac.uk/portal/renate.schmidt.html,Formal methods,/research/expertise/formal-methods/,1bu5pB0AAAAJ
-Jonathan Shapiro,Reader,https://www.research.manchester.ac.uk/portal/jonathan.l.shapiro.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,nLmrwfgAAAAJ
-Stian Soiland-Reyes,Senior Lecturer,https://research.manchester.ac.uk/en/persons/soiland-reyes,Information management,/research/expertise/information-management/,OeBjonkAAAAJ
-Andrew Stewart,Head of Department,https://www.research.manchester.ac.uk/portal/andrew.j.stewart.html,,,o0cD2JgAAAAJ
-Robert Stevens,Professor,https://www.research.manchester.ac.uk/portal/robert.stevens.html,Human computer systems,/research/expertise/human-computer-systems/,P7ACZMQAAAAJ
-Mingfei Sun,Lecturer,https://research.manchester.ac.uk/en/persons/mingfei-sun,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,2Uzgp5kAAAAJ
-Youcheng Sun,Lecturer,https://www.research.manchester.ac.uk/portal/youcheng.sun.html,Systems and software security,/research/expertise/systems-and-software-security/,Qbb5pBUAAAAJ
-Chris Taylor,"Professor, Associate VP Digital Strategy and Innovation",https://www.research.manchester.ac.uk/portal/chris.taylor.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,WgY2gPEAAAAJ
-Thomas Thomson,Professor,https://www.research.manchester.ac.uk/portal/thomas.thomson.html,Nano-engineering and spintronic technologies,/research/expertise/nano-engineering/,
-Junichi Tsujii,"Professor, Scientific Advisor of NaCTeM",https://www.research.manchester.ac.uk/portal/j.tsujii.html,Natural language processing and text mining,/research/expertise/natural-language-processing/,
-Markel Vigo,Reader,https://www.research.manchester.ac.uk/portal/markel.vigo.html,Human computer systems,/research/expertise/human-computer-systems/,zDn5C90AAAAJ
-Andrei Voronkov,Professor,,Formal methods,/research/expertise/formal-methods/,fT6jrC0AAAAJ
-Xiao-Jun Zeng,Professor of Machine Learning,https://www.research.manchester.ac.uk/portal/x.zeng.html,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,jb-bYtIAAAAJ
-Ning Zhang,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ning.zhang-2.html,Information management,/research/expertise/information-management/,aAtJXuwAAAAJ
-Liping Zhao,Senior Lecturer,https://www.research.manchester.ac.uk/portal/liping.zhao.html,Information management,/research/expertise/information-management/,3LKbvlQAAAAJ
-Philip Zhao,Senior Lecturer,mailto:philip.zhao@manchester.ac.uk,"Robotics, Control, Communications & AI",/research/expertise/machine-learning-and-robotics/,l-v6RuAAAAAJ
-Hongpeng Zhou,Dame Kathleen Ollerenshaw Fellow,https://research.manchester.ac.uk/en/persons/hongpeng-zhou,Machine learning and robotics,/research/expertise/machine-learning-and-robotics/,StuUN6wAAAAJ
+Director of the Christabel Pankhurst Institute.",,9fGrB0sAAAAJ,
+Andre Freitas,Senior Lecturer,https://www.research.manchester.ac.uk/portal/andre.freitas.html,ExmHmMoAAAAJ,https://orcid.org/0000-0002-4430-4837
+Steve Furber,ICL Professor,https://www.research.manchester.ac.uk/portal/steve.furber.html,jLnsiBEAAAAJ,https://orcid.org/0000-0002-6524-3367
+Aphrodite Galata,Lecturer,https://www.research.manchester.ac.uk/portal/a.galata.html,vAY0HccAAAAJ,https://orcid.org/0000-0002-9229-7811
+James Garside,Senior Lecturer,https://www.research.manchester.ac.uk/portal/james.garside.html,,https://orcid.org/0000-0001-8812-4742
+Carole Goble,Professor,https://www.research.manchester.ac.uk/portal/carole.goble.html,2G4kqPYAAAAJ,https://orcid.org/0000-0003-1219-2137
+John Goodacre,Professor,https://www.research.manchester.ac.uk/portal/john.goodacre.html,MJtl3X4AAAAJ,https://orcid.org/0000-0002-7920-8028
+Simon Harper,Director of PGR,https://www.research.manchester.ac.uk/portal/simon.harper.html,SQEdResAAAAJ,https://orcid.org/0000-0001-9301-5049
+Gareth Henshall,Lecturer,,whFye-4AAAAJ,
+Duncan Hull,Lecturer,https://www.research.manchester.ac.uk/portal/duncan.hull.html,iDJ-t7IAAAAJ,https://orcid.org/0000-0003-2387-503X
+Caroline Jay,"Professor of Computer Science, Head of Research in the School of Engineering",https://www.research.manchester.ac.uk/portal/caroline.jay.html,AR0vM2QAAAAJ,https://orcid.org/0000-0002-6080-1382
+Sami Kaski,Professor of Artificial Intelligence,https://www.research.manchester.ac.uk/portal/samuel.kaski.html,uF6H9jMAAAAJ,
+John Keane,"Professor, Director of Business Engagement",https://research.manchester.ac.uk/en/persons/john-keane,,https://orcid.org/0000-0001-9022-4339
+Dirk Koch,Reader,https://www.research.manchester.ac.uk/portal/dirk.koch.html,GlZ0Vw8AAAAJ,https://orcid.org/0000-0002-2568-4432
+Konstantin Korovin,Reader,https://research.manchester.ac.uk/en/persons/konstantin-korovin,NCNsDlYAAAAJ,https://orcid.org/0000-0002-0740-621X
+Christos-Efthymios Kotselidis,Reader,https://www.research.manchester.ac.uk/portal/christos.kotselidis.html,A8z1ZuoAAAAJ,https://orcid.org/0000-0002-8146-3503
+Kung-Kiu Lau,Senior Lecturer,https://www.research.manchester.ac.uk/portal/kung-kiu.lau.html,,https://orcid.org/0000-0002-7692-0052
+Chenghua Lin,Professor,https://research.manchester.ac.uk/en/persons/chenghua-lin,Tp1RdIQAAAAJ,
+Francisco Lobo,Lecturer,,,
+Mikel Lujan,Professor (RAEng Chair),,X7USiLMAAAAJ,
+Bernardo Magri,Senior Lecturer,https://www.research.manchester.ac.uk/portal/bernardo.magri.html,B3FerDQAAAAJ,
+Zahra Montazeri,Lecturer,https://www.research.manchester.ac.uk/portal/zahra.montazeri.html,WwncYUcAAAAJ,
+Terence Morley,Lecturer,https://research.manchester.ac.uk/en/persons/terence.morley,kYwP6n0AAAAJ,https://orcid.org/0000-0001-7588-6457
+Tim Morris,Senior Lecturer,https://www.research.manchester.ac.uk/portal/tim.morris.html,kqz6Id8AAAAJ,https://orcid.org/0000-0001-5334-4913
+Christoforos Moutafis,Senior Lecturer,https://www.research.manchester.ac.uk/portal/christoforos.moutafis.html,adiGYU8AAAAJ,https://orcid.org/0000-0002-2006-9203
+Tingting Mu,Senior Lecturer,https://www.research.manchester.ac.uk/portal/tingting.mu.html,dOG10IUAAAAJ,https://orcid.org/0000-0001-6315-3432
+Anirbit Mukherjee,Lecturer in Machine Learning,https://www.research.manchester.ac.uk/portal/anirbit.mukherjee.html,V32KjH0AAAAJ,https://orcid.org/0000-0001-5189-8939
+Mustafa Mustafa,"Senior Lecturer, Lead of Trusted Digital Systems cluster",https://www.research.manchester.ac.uk/portal/mustafa.mustafa.html,lP0z5wEAAAAJ,https://orcid.org/0000-0002-8772-8023
+Goran Nenadic,Professor,https://www.research.manchester.ac.uk/portal/gnenadic.html,CyTXHuUAAAAJ,https://orcid.org/0000-0003-0795-5363
+Wei Pan,Senior Lecturer,https://www.research.manchester.ac.uk/portal/en/researchers/wei-pan(7543834f-4e4d-4596-9038-11ce2d879f9e).html,GqryWPsAAAAJ,https://orcid.org/0000-0003-1121-9879
+Paul Nutter,"Reader, Director of Undergraduate Studies",https://www.research.manchester.ac.uk/portal/p.nutter.html,Phqin7oAAAAJ,https://orcid.org/0000-0003-4075-861X
+Pierre Olivier,Senior Lecturer,https://www.research.manchester.ac.uk/portal/pierre.olivier.html,rBr5a7UAAAAJ,
+Bijan Parsia,Professor,https://www.research.manchester.ac.uk/portal/bijan.parsia.html,UBcjZigAAAAJ,
+Norman Paton,Professor,https://www.research.manchester.ac.uk/portal/norman.paton.html,X-9OH6AAAAAJ,https://orcid.org/0000-0003-2008-6617
+Vasileios Pavlidis,Senior Lecturer,https://www.research.manchester.ac.uk/portal/vasileios.pavlidis.html,-hDlKqwAAAAJ,https://orcid.org/0000-0002-4063-4652
+Pavlos Petoumenos,Lecturer,https://www.research.manchester.ac.uk/portal/pavlos.petoumenos.html,0fpFdr4AAAAJ,https://orcid.org/0000-0002-1497-6536
+Stephen Pettifer,"Professor, Director of Teaching Strategy, Associate Dean for Teaching",https://www.research.manchester.ac.uk/portal/steve.pettifer.html,yUwh2bEAAAAJ,https://orcid.org/0000-0002-1809-5621
+Ian Pratt-Hartmann,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ian.pratt.html,M1xicaEAAAAJ,https://orcid.org/0000-0003-0062-043X
+Joseph Razavi,Lecturer,https://research.manchester.ac.uk/en/persons/joseph.razavi,,
+Giles Reger,Senior Lecturer,https://www.research.manchester.ac.uk/portal/giles.reger.html,Js3EdsEAAAAJ,https://orcid.org/0000-0001-6353-952X
+Oliver Rhodes,Senior Lecturer,https://www.research.manchester.ac.uk/portal/oliver.rhodes.html,YKS52KIAAAAJ,https://orcid.org/0000-0003-1728-2828
+Graham Riley,Lecturer,https://www.research.manchester.ac.uk/portal/graham.riley.html,OaRHgWIAAAAJ,https://orcid.org/0000-0001-7023-517X
+Rizos Sakellariou,Professor,https://www.research.manchester.ac.uk/portal/rizos.html,5LPRRM8AAAAJ,https://orcid.org/0000-0002-6104-6649
+Sandra Sampaio,Lecturer,https://www.research.manchester.ac.uk/portal/s.sampaio.html,,https://orcid.org/0000-0002-3751-4182
+Uli Sattler,"Professor, Deputy Head of Department",https://www.research.manchester.ac.uk/portal/uli.sattler.html,uMI-tgsAAAAJ,https://orcid.org/0000-0003-4103-3389
+Andrea Schalk,Senior Lecturer,https://www.research.manchester.ac.uk/portal/andrea.schalk.html,odEJK7EAAAAJ,https://orcid.org/0000-0003-2300-0962
+Renate Schmidt,Reader,https://www.research.manchester.ac.uk/portal/renate.schmidt.html,1bu5pB0AAAAJ,https://orcid.org/0000-0002-6673-3333
+Jonathan Shapiro,Reader,https://www.research.manchester.ac.uk/portal/jonathan.l.shapiro.html,nLmrwfgAAAAJ,https://orcid.org/0000-0002-9572-9544
+Stian Soiland-Reyes,Senior Lecturer,https://research.manchester.ac.uk/en/persons/soiland-reyes,OeBjonkAAAAJ,https://orcid.org/0000-0001-9842-9718
+Andrew Stewart,Head of Department,https://www.research.manchester.ac.uk/portal/andrew.j.stewart.html,o0cD2JgAAAAJ,https://orcid.org/0000-0002-9795-4104
+Robert Stevens,Professor,https://www.research.manchester.ac.uk/portal/robert.stevens.html,P7ACZMQAAAAJ,
+Mingfei Sun,Lecturer,https://research.manchester.ac.uk/en/persons/mingfei-sun,2Uzgp5kAAAAJ,https://orcid.org/0000-0002-5925-5425
+Youcheng Sun,Lecturer,https://www.research.manchester.ac.uk/portal/youcheng.sun.html,Qbb5pBUAAAAJ,https://orcid.org/0000-0002-1893-6259
+Chris Taylor,"Professor, Associate VP Digital Strategy and Innovation",https://www.research.manchester.ac.uk/portal/chris.taylor.html,WgY2gPEAAAAJ,https://orcid.org/0000-0001-7867-9533
+Thomas Thomson,Professor,https://www.research.manchester.ac.uk/portal/thomas.thomson.html,,https://orcid.org/0000-0002-4110-1567
+Junichi Tsujii,"Professor, Scientific Advisor of NaCTeM",https://www.research.manchester.ac.uk/portal/j.tsujii.html,h3aNnAIAAAAJ,
+Markel Vigo,Reader,https://www.research.manchester.ac.uk/portal/markel.vigo.html,zDn5C90AAAAJ,https://orcid.org/0000-0003-4768-7623
+Andrei Voronkov,Professor,,fT6jrC0AAAAJ,
+Xiao-Jun Zeng,Professor of Machine Learning,https://www.research.manchester.ac.uk/portal/x.zeng.html,jb-bYtIAAAAJ,https://orcid.org/0000-0002-2320-2495
+Ning Zhang,Senior Lecturer,https://www.research.manchester.ac.uk/portal/ning.zhang-2.html,aAtJXuwAAAAJ,https://orcid.org/0000-0001-9519-9128
+Liping Zhao,Senior Lecturer,https://www.research.manchester.ac.uk/portal/liping.zhao.html,3LKbvlQAAAAJ,https://orcid.org/0000-0001-8556-8655
+Philip Zhao,Senior Lecturer,mailto:philip.zhao@manchester.ac.uk,l-v6RuAAAAAJ,
+Hongpeng Zhou,Dame Kathleen Ollerenshaw Fellow,https://research.manchester.ac.uk/en/persons/hongpeng-zhou,StuUN6wAAAAJ,https://orcid.org/0000-0002-3894-0116

@@ -3,6 +3,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Mauricio Alvarez",
+        "orcid": "https://orcid.org/0000-0002-8980-4472",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -28,6 +29,7 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "name": "Sophia Ananiadou",
+        "orcid": "https://orcid.org/0000-0002-4097-9191",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor, Computer Science, Manchester University, National Centre for Text Mining",
@@ -53,6 +55,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Richard Banach",
+        "orcid": "https://orcid.org/0000-0002-0243-9434",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -74,13 +77,33 @@
         "url": "https://www.research.manchester.ac.uk/portal/richard.banach.html"
     },
     {
-        "area": "Natural language processing and text mining",
-        "area_url": "/research/expertise/natural-language-processing/",
-        "name": "Riza Theresa Batista-Navarro",
         "alias": [
             "Riza Batista-Navarro"
         ],
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Riza Theresa Batista-Navarro",
+        "orcid": "https://orcid.org/0000-0001-6693-7531",
         "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Senior Lecturer in Text Mining, Department of Computer Science, University of Manchester",
+            "citedby": 1984,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [
+                "basics"
+            ],
+            "interests": [
+                "Text Mining",
+                "Natural Language Processing",
+                "Machine Learning"
+            ],
+            "name": "Riza Batista-Navarro",
+            "organization": 13860336253325434807,
+            "scholar_id": "fRBJmp9gk_cC",
+            "source": "AUTHOR_PROFILE_PAGE",
+            "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fRBJmp9gk_cC&citpid=2"
+        },
         "scholar_id": "fRBJmp9gk_cC",
         "url": "https://www.research.manchester.ac.uk/portal/riza.batista.html"
     },
@@ -88,6 +111,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Sean Bechhofer",
+        "orcid": "https://orcid.org/0000-0002-5872-3573",
         "role": "Reader in Computer Science, Director of Teaching and Learning",
         "scholar": {
             "affiliation": "Reader, School of Computer Science, University of Manchester",
@@ -110,6 +134,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Davide Bertozzi",
+        "orcid": "https://orcid.org/0000-0001-7462-4551",
         "role": "Reader",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -132,6 +157,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Stewart Blakeway",
+        "orcid": null,
         "role": "Lecturer",
         "scholar": {
             "affiliation": "The University of Manchester",
@@ -154,6 +180,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Andrew Brass",
+        "orcid": "https://orcid.org/0000-0002-0389-7058",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Bioinformatics, School of Health Sciences, University of Manchester",
@@ -179,6 +206,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Gavin Brown",
+        "orcid": "https://orcid.org/0000-0003-2261-9018",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Machine Learning, Dept of Computer Science, University of Manchester",
@@ -203,6 +231,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Angelo Cangelosi",
+        "orcid": "https://orcid.org/0000-0002-4709-2243",
         "role": "Professor, Deputy Director of Research",
         "scholar": {
             "affiliation": "Professor of Machine Learning and Robotics, University of Manchester",
@@ -225,12 +254,13 @@
         "url": "https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html"
     },
     {
-        "area": "Teaching",
-        "area_url": null,
-        "name": "Tom Carroll",
         "alias": [
             "Thomas Carrol"
         ],
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Tom Carroll",
+        "orcid": "https://orcid.org/0000-0002-3020-2661",
         "role": "Lecturer",
         "scholar_id": null,
         "url": "https://www.research.manchester.ac.uk/portal/thomas.carroll.html"
@@ -239,6 +269,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Jiaoyan Chen",
+        "orcid": "https://orcid.org/0000-0003-4643-6750",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -264,6 +295,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Ke Chen",
+        "orcid": "https://orcid.org/0000-0001-9457-9364",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Department of Computer Science, The University of Manchester",
@@ -290,6 +322,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Sarah Clinch",
+        "orcid": "https://orcid.org/0000-0002-9305-4774",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -315,6 +348,7 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "name": "Emily Collins",
+        "orcid": "https://orcid.org/0000-0001-9396-536X",
         "role": "Dame Kathleen Ollerenshaw Fellow",
         "scholar": {
             "affiliation": "Dame Kathleen Ollerenshaw Fellow, University of Manchester",
@@ -341,6 +375,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Lucas Cordeiro",
+        "orcid": "https://orcid.org/0000-0002-6235-4272",
         "role": "Reader, Director of the ARM Center of Excellence",
         "scholar": {
             "affiliation": "Reader, Dept of Computer Science, University of Manchester",
@@ -367,6 +402,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Alex Creswell",
+        "orcid": null,
         "role": "Chair in Digital And Artificial Intelligence",
         "scholar_id": null,
         "url": null
@@ -375,6 +411,7 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "name": "Louise Dennis",
+        "orcid": "https://orcid.org/0000-0003-1426-1896",
         "role": "Reader",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -401,6 +438,7 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "name": "Clare Dixon",
+        "orcid": "https://orcid.org/0000-0002-4610-9533",
         "role": "School of Engineering Deputy Head of Research and Computer Science Research Lead",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -426,6 +464,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Daniel Dresner",
+        "orcid": null,
         "role": "Professor",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -451,6 +490,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Suzanne Embury",
+        "orcid": "https://orcid.org/0000-0002-3711-0778",
         "role": "Reader",
         "scholar": {
             "affiliation": "Reader in Software Engineering, Dept of Computer Science, The University of Manchester",
@@ -477,6 +517,7 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "name": "Marie Farrell",
+        "orcid": "https://orcid.org/0000-0001-7708-3877",
         "role": "Royal Academy of Engineering Fellow",
         "scholar": {
             "affiliation": "The University of Manchester",
@@ -501,6 +542,7 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "name": "Michael Fisher",
+        "orcid": null,
         "role": "Professor, Royal Academy of Engineering Chair in Emerging Technologies",
         "scholar": {
             "affiliation": "Professor of Computer Science, University of Manchester",
@@ -527,6 +569,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Alejandro Frangi",
+        "orcid": null,
         "role": "Professor, Bicentennial Turing Chair in Computational Medicine, \r\nRoyal Academy of Engineering Chair in Emerging Technologies, \r\nDirector of the Christabel Pankhurst Institute.",
         "scholar": {
             "affiliation": "Bicentennial Turing Chair | RAEng Chair at the University of Manchester; KU Leuven; Alan …",
@@ -551,6 +594,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Andre Freitas",
+        "orcid": "https://orcid.org/0000-0002-4430-4837",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "University of Manchester | Idiap Research Institute",
@@ -576,6 +620,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Steve Furber",
+        "orcid": "https://orcid.org/0000-0002-6524-3367",
         "role": "ICL Professor",
         "scholar": {
             "affiliation": "… of Computer Engineering, Department of Computer Science, The University of Manchester …",
@@ -600,6 +645,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Aphrodite Galata",
+        "orcid": "https://orcid.org/0000-0002-9229-7811",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -623,6 +669,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "James Garside",
+        "orcid": "https://orcid.org/0000-0001-8812-4742",
         "role": "Senior Lecturer",
         "scholar_id": null,
         "url": "https://www.research.manchester.ac.uk/portal/james.garside.html"
@@ -631,6 +678,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Carole Goble",
+        "orcid": "https://orcid.org/0000-0003-1219-2137",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Computer Science, University of Manchester",
@@ -657,6 +705,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "John Goodacre",
+        "orcid": "https://orcid.org/0000-0002-7920-8028",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor Computer Architectures, School of Computer Science, University of Manchester",
@@ -683,6 +732,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Simon Harper",
+        "orcid": "https://orcid.org/0000-0001-9301-5049",
         "role": "Director of PGR",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -709,6 +759,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Gareth Henshall",
+        "orcid": null,
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Lecturer, The University of Manchester",
@@ -732,6 +783,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Duncan Hull",
+        "orcid": "https://orcid.org/0000-0003-2387-503X",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Lecturer (Assistant Professor), Department of Computer Science, University of Manchester …",
@@ -758,6 +810,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Caroline Jay",
+        "orcid": "https://orcid.org/0000-0002-6080-1382",
         "role": "Professor of Computer Science, Head of Research in the School of Engineering",
         "scholar": {
             "affiliation": "Professor of Computer Science, University of Manchester, UK",
@@ -782,6 +835,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Sami Kaski",
+        "orcid": null,
         "role": "Professor of Artificial Intelligence",
         "scholar": {
             "affiliation": "Professor, Aalto University and University of Manchester",
@@ -807,6 +861,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "John Keane",
+        "orcid": "https://orcid.org/0000-0001-9022-4339",
         "role": "Professor, Director of Business Engagement",
         "scholar_id": null,
         "url": "https://research.manchester.ac.uk/en/persons/john-keane"
@@ -815,6 +870,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Dirk Koch",
+        "orcid": "https://orcid.org/0000-0002-2568-4432",
         "role": "Reader",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -841,6 +897,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Konstantin Korovin",
+        "orcid": "https://orcid.org/0000-0002-0740-621X",
         "role": "Reader",
         "scholar": {
             "affiliation": "University of Manchester, School of Computer Science",
@@ -863,13 +920,36 @@
         "url": "https://research.manchester.ac.uk/en/persons/konstantin-korovin"
     },
     {
-        "area": "Advanced processor technologies",
-        "area_url": "/research/expertise/advanced-processor-technologies/",
-        "name": "Christos-Efthymios Kotselidis",
         "alias": [
             "Christos Kotselidis"
         ],
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Christos-Efthymios Kotselidis",
+        "orcid": "https://orcid.org/0000-0002-8146-3503",
         "role": "Reader",
+        "scholar": {
+            "affiliation": "Associate Professor, University of Manchester",
+            "citedby": 1210,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [
+                "basics"
+            ],
+            "homepage": "https://www.kotselidis.net/",
+            "interests": [
+                "Computer Architecture",
+                "Virtual Machines",
+                "Compilers",
+                "Garbage Collection",
+                "HW/SW Co-design"
+            ],
+            "name": "Christos Kotselidis",
+            "organization": 13860336253325434807,
+            "scholar_id": "A8z1ZuoAAAAJ",
+            "source": "AUTHOR_PROFILE_PAGE",
+            "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A8z1ZuoAAAAJ&citpid=2"
+        },
         "scholar_id": "A8z1ZuoAAAAJ",
         "url": "https://www.research.manchester.ac.uk/portal/christos.kotselidis.html"
     },
@@ -877,6 +957,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Kung-Kiu Lau",
+        "orcid": "https://orcid.org/0000-0002-7692-0052",
         "role": "Senior Lecturer",
         "scholar_id": null,
         "url": "https://www.research.manchester.ac.uk/portal/kung-kiu.lau.html"
@@ -885,6 +966,7 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "name": "Chenghua Lin",
+        "orcid": null,
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Natural Language Processing, University of Manchester",
@@ -910,6 +992,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Francisco Lobo",
+        "orcid": null,
         "role": "Lecturer",
         "scholar_id": null,
         "url": null
@@ -918,6 +1001,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Mikel Lujan",
+        "orcid": null,
         "role": "Professor (RAEng Chair)",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -943,6 +1027,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Bernardo Magri",
+        "orcid": null,
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "The University of Manchester",
@@ -965,6 +1050,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Zahra Montazeri",
+        "orcid": null,
         "role": "Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -987,6 +1073,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Terence Morley",
+        "orcid": "https://orcid.org/0000-0001-7588-6457",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "PhD Student, Department of Computer Science, The University of Manchester, UK.",
@@ -1010,13 +1097,30 @@
         "url": "https://research.manchester.ac.uk/en/persons/terence.morley"
     },
     {
-        "area": "Human computer systems",
-        "area_url": "/research/expertise/human-computer-systems/",
-        "name": "Tim Morris",
         "alias": [
             "David Morris"
         ],
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Tim Morris",
+        "orcid": "https://orcid.org/0000-0001-5334-4913",
         "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Computer Science and University of Manchester",
+            "citedby": 1319,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [
+                "basics"
+            ],
+            "interests": [
+                "computer vision"
+            ],
+            "name": "D T Morris",
+            "organization": 13860336253325434807,
+            "scholar_id": "kqz6Id8AAAAJ",
+            "source": "AUTHOR_PROFILE_PAGE"
+        },
         "scholar_id": "kqz6Id8AAAAJ",
         "url": "https://www.research.manchester.ac.uk/portal/tim.morris.html"
     },
@@ -1024,6 +1128,7 @@
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
         "name": "Christoforos Moutafis",
+        "orcid": "https://orcid.org/0000-0002-2006-9203",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -1050,6 +1155,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Tingting Mu",
+        "orcid": "https://orcid.org/0000-0001-6315-3432",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Computer Science, University of Manchester",
@@ -1072,6 +1178,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Anirbit Mukherjee",
+        "orcid": "https://orcid.org/0000-0001-5189-8939",
         "role": "Lecturer in Machine Learning",
         "scholar": {
             "affiliation": "Department of Computer Science, The University of Manchester",
@@ -1095,6 +1202,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Mustafa Mustafa",
+        "orcid": "https://orcid.org/0000-0002-8772-8023",
         "role": "Senior Lecturer, Lead of Trusted Digital Systems cluster",
         "scholar": {
             "affiliation": "University of Manchester & COSIC KU Leuven",
@@ -1120,6 +1228,7 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "name": "Goran Nenadic",
+        "orcid": "https://orcid.org/0000-0003-0795-5363",
         "role": "Professor",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -1144,6 +1253,7 @@
         "area": "Machine Learning and Robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Wei Pan",
+        "orcid": "https://orcid.org/0000-0003-1121-9879",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -1168,6 +1278,7 @@
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
         "name": "Paul Nutter",
+        "orcid": "https://orcid.org/0000-0003-4075-861X",
         "role": "Reader, Director of Undergraduate Studies",
         "scholar": {
             "affiliation": "Reader, School of Computer Science, The University of Manchester",
@@ -1190,6 +1301,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Pierre Olivier",
+        "orcid": null,
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Senior lecturer, University of Manchester, Department of Computer Science",
@@ -1214,6 +1326,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Bijan Parsia",
+        "orcid": null,
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Computer Science, University of Manchester",
@@ -1239,6 +1352,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Norman Paton",
+        "orcid": "https://orcid.org/0000-0003-2008-6617",
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Computer Science, University of Manchester",
@@ -1263,6 +1377,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Vasileios Pavlidis",
+        "orcid": "https://orcid.org/0000-0002-4063-4652",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Computer Science and University of Manchester",
@@ -1285,6 +1400,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Pavlos Petoumenos",
+        "orcid": "https://orcid.org/0000-0002-1497-6536",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Lecturer, Department of Computer Science, University of Manchester",
@@ -1309,6 +1425,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Stephen Pettifer",
+        "orcid": "https://orcid.org/0000-0002-1809-5621",
         "role": "Professor, Director of Teaching Strategy, Associate Dean for Teaching",
         "scholar": {
             "affiliation": "Reader, School of Computer Science, The University of Manchester",
@@ -1334,6 +1451,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Ian Pratt-Hartmann",
+        "orcid": "https://orcid.org/0000-0003-0062-043X",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -1359,6 +1477,7 @@
         "area": "Teaching",
         "area_url": null,
         "name": "Joseph Razavi",
+        "orcid": null,
         "role": "Lecturer",
         "scholar_id": null,
         "url": "https://research.manchester.ac.uk/en/persons/joseph.razavi"
@@ -1367,6 +1486,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Giles Reger",
+        "orcid": "https://orcid.org/0000-0001-6353-952X",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Amazon and University of Manchester",
@@ -1391,6 +1511,7 @@
         "area": " Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Oliver Rhodes",
+        "orcid": "https://orcid.org/0000-0003-1728-2828",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Lecturer in Bio-Inspired Computing, University of Manchester",
@@ -1413,6 +1534,7 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "name": "Graham Riley",
+        "orcid": "https://orcid.org/0000-0001-7023-517X",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Lecturer in Computer Science, University of Manchester",
@@ -1437,6 +1559,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Rizos Sakellariou",
+        "orcid": "https://orcid.org/0000-0002-6104-6649",
         "role": "Professor",
         "scholar": {
             "affiliation": "University of Manchester, Department of Computer Science",
@@ -1461,6 +1584,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Sandra Sampaio",
+        "orcid": "https://orcid.org/0000-0002-3751-4182",
         "role": "Lecturer",
         "scholar_id": null,
         "url": "https://www.research.manchester.ac.uk/portal/s.sampaio.html"
@@ -1469,6 +1593,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Uli Sattler",
+        "orcid": "https://orcid.org/0000-0003-4103-3389",
         "role": "Professor, Deputy Head of Department",
         "scholar": {
             "affiliation": "Professor, IMG, Department of Computer Science, University of Manchester",
@@ -1493,6 +1618,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Andrea Schalk",
+        "orcid": "https://orcid.org/0000-0003-2300-0962",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "School of Computer Science, University of Manchester",
@@ -1515,6 +1641,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Renate Schmidt",
+        "orcid": "https://orcid.org/0000-0002-6673-3333",
         "role": "Reader",
         "scholar": {
             "affiliation": "School of Computer Science, The University of Manchester",
@@ -1539,6 +1666,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Jonathan Shapiro",
+        "orcid": "https://orcid.org/0000-0002-9572-9544",
         "role": "Reader",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -1563,6 +1691,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Stian Soiland-Reyes",
+        "orcid": "https://orcid.org/0000-0001-9842-9718",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Senior Lecturer, Department of Computer Science, The University of Manchester",
@@ -1589,6 +1718,7 @@
         "area": null,
         "area_url": null,
         "name": "Andrew Stewart",
+        "orcid": "https://orcid.org/0000-0002-9795-4104",
         "role": "Head of Department",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -1614,6 +1744,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Robert Stevens",
+        "orcid": null,
         "role": "Professor",
         "scholar": {
             "affiliation": "Professor of Computer Science, Department of Computer Science, university of manchester",
@@ -1639,6 +1770,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Mingfei Sun",
+        "orcid": "https://orcid.org/0000-0002-5925-5425",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -1663,6 +1795,7 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "name": "Youcheng Sun",
+        "orcid": "https://orcid.org/0000-0002-1893-6259",
         "role": "Lecturer",
         "scholar": {
             "affiliation": "Lecturer, University of Manchester",
@@ -1686,6 +1819,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Chris Taylor",
+        "orcid": "https://orcid.org/0000-0001-7867-9533",
         "role": "Professor, Associate VP Digital Strategy and Innovation",
         "scholar": {
             "affiliation": "Professor of Imaging Science and Computer Science, University of Manchester",
@@ -1712,6 +1846,7 @@
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
         "name": "Thomas Thomson",
+        "orcid": "https://orcid.org/0000-0002-4110-1567",
         "role": "Professor",
         "scholar_id": null,
         "url": "https://www.research.manchester.ac.uk/portal/thomas.thomson.html"
@@ -1720,7 +1855,28 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "name": "Junichi Tsujii",
+        "orcid": null,
         "role": "Professor, Scientific Advisor of NaCTeM",
+        "scholar": {
+            "affiliation": "Artificial Intelligence Research Center, AIST",
+            "citedby": 22802,
+            "container_type": "Author",
+            "email_domain": "@aist.go.jp",
+            "filled": [
+                "basics"
+            ],
+            "interests": [
+                "Artificial Intelligence",
+                "Natural Language Processing",
+                "Text Mining",
+                "Machine Translation"
+            ],
+            "name": "Junichi Tsujii",
+            "organization": 13549204925832971139,
+            "scholar_id": "h3aNnAIAAAAJ",
+            "source": "AUTHOR_PROFILE_PAGE",
+            "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=h3aNnAIAAAAJ&citpid=2"
+        },
         "scholar_id": "h3aNnAIAAAAJ",
         "url": "https://www.research.manchester.ac.uk/portal/j.tsujii.html"
     },
@@ -1728,6 +1884,7 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "name": "Markel Vigo",
+        "orcid": "https://orcid.org/0000-0003-4768-7623",
         "role": "Reader",
         "scholar": {
             "affiliation": "Reader in Computer Science, University of Manchester",
@@ -1753,6 +1910,7 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "name": "Andrei Voronkov",
+        "orcid": null,
         "role": "Professor",
         "scholar": {
             "affiliation": "The University of Manchester; EasyChair",
@@ -1776,6 +1934,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Xiao-Jun Zeng",
+        "orcid": "https://orcid.org/0000-0002-2320-2495",
         "role": "Professor of Machine Learning",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -1801,6 +1960,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Ning Zhang",
+        "orcid": "https://orcid.org/0000-0001-9519-9128",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "University of Manchester",
@@ -1825,6 +1985,7 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "name": "Liping Zhao",
+        "orcid": "https://orcid.org/0000-0001-8556-8655",
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Department of Computer Science, University of Manchester",
@@ -1849,6 +2010,7 @@
         "area": "Robotics, Control, Communications & AI",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Philip Zhao",
+        "orcid": null,
         "role": "Senior Lecturer",
         "scholar": {
             "affiliation": "Associate Professor (Senior Lecturer) University of Manchester, UK",
@@ -1874,6 +2036,7 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "name": "Hongpeng Zhou",
+        "orcid": "https://orcid.org/0000-0002-3894-0116",
         "role": "Dame Kathleen Ollerenshaw Fellow",
         "scholar": {
             "affiliation": "Assistant Professor, Computer Sciecne, University of Manchester",
