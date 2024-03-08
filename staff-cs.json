@@ -1,0 +1,1899 @@
+[
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Mauricio Alvarez",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 3488,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Machine Learning",
+                "Gaussian Processes",
+                "Kernel Methods",
+                "Bayesian statistics"
+            ],
+            "name": "Mauricio A. Álvarez",
+            "scholar_id": "vrb4a_wAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vrb4a_wAAAAJ"
+        },
+        "scholar_id": "vrb4a_wAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/en/researchers/mauricio-alvarez(d531fef7-ad55-4038-bee9-28c1afcd6035).html"
+    },
+    {
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Sophia Ananiadou",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor, Computer Science, Manchester University, National Centre for Text Mining",
+            "citedby": 20306,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Natural Language Processing",
+                "Text Mining",
+                "Biomedical Text Mining",
+                "Artificial Intelligence"
+            ],
+            "name": "Sophia Ananiadou",
+            "scholar_id": "quhi-K0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=quhi-K0AAAAJ"
+        },
+        "scholar_id": "quhi-K0AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Richard Banach",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 2153,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Formal Methods",
+                "Retrenchment",
+                "Refinement"
+            ],
+            "name": "Richard Banach",
+            "scholar_id": "l0KTTxcAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=l0KTTxcAAAAJ"
+        },
+        "scholar_id": "l0KTTxcAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/richard.banach.html"
+    },
+    {
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Riza Theresa Batista-Navarro",
+        "alias": [
+            "Riza Batista-Navarro"
+        ],
+        "role": "Senior Lecturer",
+        "scholar_id": "fRBJmp9gk_cC",
+        "url": "https://www.research.manchester.ac.uk/portal/riza.batista.html"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Sean Bechhofer",
+        "role": "Reader in Computer Science, Director of Teaching and Learning",
+        "scholar": {
+            "affiliation": "Reader, School of Computer Science, University of Manchester",
+            "citedby": 17349,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Semantic Web"
+            ],
+            "name": "Sean Bechhofer",
+            "scholar_id": "XRzaza0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=XRzaza0AAAAJ"
+        },
+        "scholar_id": "XRzaza0AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/sean.bechhofer.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Davide Bertozzi",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 7321,
+            "container_type": "Author",
+            "email_domain": "",
+            "filled": [],
+            "interests": [
+                "Computer Engineering"
+            ],
+            "name": "Davide Bertozzi",
+            "scholar_id": "ag6MWiUAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ag6MWiUAAAAJ"
+        },
+        "scholar_id": "ag6MWiUAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/davide-bertozzi"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Stewart Blakeway",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "The University of Manchester",
+            "citedby": 101,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Networks"
+            ],
+            "name": "Stewart Blakeway",
+            "scholar_id": "gphOY8gAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=gphOY8gAAAAJ"
+        },
+        "scholar_id": "gphOY8gAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/stewart.blakeway.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Andrew Brass",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Bioinformatics, School of Health Sciences, University of Manchester",
+            "citedby": 11257,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "genomic medicine",
+                "health informatics",
+                "bioinformatics",
+                "superconductivity"
+            ],
+            "name": "andy brass",
+            "scholar_id": "QOoq0_sAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=QOoq0_sAAAAJ"
+        },
+        "scholar_id": "QOoq0_sAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/andy.brass.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Gavin Brown",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Machine Learning, Dept of Computer Science, University of Manchester",
+            "citedby": 6926,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Machine Learning",
+                "Artificial Intelligence",
+                "Pattern Recognition"
+            ],
+            "name": "Gavin Brown",
+            "scholar_id": "IGApvF0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=IGApvF0AAAAJ"
+        },
+        "scholar_id": "IGApvF0AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/gavin.brown.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Angelo Cangelosi",
+        "role": "Professor, Deputy Director of Research",
+        "scholar": {
+            "affiliation": "Professor of Machine Learning and Robotics, University of Manchester",
+            "citedby": 11197,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Artificial intelligence",
+                "robotics",
+                "machine learning",
+                "cognitive science"
+            ],
+            "name": "Angelo Cangelosi",
+            "scholar_id": "NyoHewcAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=NyoHewcAAAAJ"
+        },
+        "scholar_id": "NyoHewcAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Tom Carroll",
+        "alias": [
+            "Thomas Carrol"
+        ],
+        "role": "Lecturer",
+        "scholar_id": null,
+        "url": "https://www.research.manchester.ac.uk/portal/thomas.carroll.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Jiaoyan Chen",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 2791,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Knowledge Representation",
+                "Knowledge Graph",
+                "Ontology",
+                "Machine Learning"
+            ],
+            "name": "Jiaoyan Chen",
+            "scholar_id": "5Cy4z8wAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=5Cy4z8wAAAAJ"
+        },
+        "scholar_id": "5Cy4z8wAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/jiaoyan.chen"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Ke Chen",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Department of Computer Science, The University of Manchester",
+            "citedby": 4190,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Machine Learning",
+                "Machine Perception",
+                "Cognitive Computing",
+                "Intelligent Systems",
+                "Artificial Intelligence"
+            ],
+            "name": "Ke Chen",
+            "scholar_id": "-pGdSi4AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=-pGdSi4AAAAJ"
+        },
+        "scholar_id": "-pGdSi4AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/ke.chen.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Sarah Clinch",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 2124,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "ubiquitous and mobile computing",
+                "pervasive displays",
+                "health technologies",
+                "privacy and trust"
+            ],
+            "name": "Sarah Clinch",
+            "scholar_id": "JBwY2kAAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=JBwY2kAAAAAJ"
+        },
+        "scholar_id": "JBwY2kAAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/sarah.clinch.html"
+    },
+    {
+        "area": "Autonomy and verification",
+        "area_url": "/research/expertise/autonomy-and-verification/",
+        "name": "Emily Collins",
+        "role": "Dame Kathleen Ollerenshaw Fellow",
+        "scholar": {
+            "affiliation": "Dame Kathleen Ollerenshaw Fellow, University of Manchester",
+            "citedby": 677,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Robotics",
+                "Human-Robot-Interaction",
+                "Psychology",
+                "Ethics",
+                "Trustworthy Autonomy"
+            ],
+            "name": "Emily C Collins",
+            "scholar_id": "OIcNb2QAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=OIcNb2QAAAAJ"
+        },
+        "scholar_id": "OIcNb2QAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/e.c.collins"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Lucas Cordeiro",
+        "role": "Reader, Director of the ARM Center of Excellence",
+        "scholar": {
+            "affiliation": "Reader, Dept of Computer Science, University of Manchester",
+            "citedby": 2819,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Formal Methods",
+                "Automated Verification",
+                "Software Testing",
+                "Program Synthesis",
+                "Software Security"
+            ],
+            "name": "Lucas Carvalho Cordeiro",
+            "scholar_id": "Lje1SFgAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Lje1SFgAAAAJ"
+        },
+        "scholar_id": "Lje1SFgAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/lucas.cordeiro.html"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Alex Creswell",
+        "role": "Chair in Digital And Artificial Intelligence",
+        "scholar_id": null,
+        "url": null
+    },
+    {
+        "area": "Autonomy and verification",
+        "area_url": "/research/expertise/autonomy-and-verification/",
+        "name": "Louise Dennis",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 3480,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Verification",
+                "Model Checking",
+                "Autonomous Systems",
+                "Agent Programming Languages",
+                "Machine Ethics"
+            ],
+            "name": "Louise Dennis",
+            "scholar_id": "5d8ouI8AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=5d8ouI8AAAAJ"
+        },
+        "scholar_id": "5d8ouI8AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/louise.dennis.html"
+    },
+    {
+        "area": "Autonomy and verification",
+        "area_url": "/research/expertise/autonomy-and-verification/",
+        "name": "Clare Dixon",
+        "role": "School of Engineering Deputy Head of Research and Computer Science Research Lead",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 3242,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Verification",
+                "Automated Reasoning",
+                "Robotics and Autonomous Systems",
+                "Artificial Intelligence"
+            ],
+            "name": "Clare Dixon",
+            "scholar_id": "ySfW34EAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ySfW34EAAAAJ"
+        },
+        "scholar_id": "ySfW34EAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Daniel Dresner",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 34,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Informatics",
+                "cybernetics",
+                "security",
+                "risk"
+            ],
+            "name": "Daniel Dresner",
+            "scholar_id": "PiEzm-AAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=PiEzm-AAAAAJ"
+        },
+        "scholar_id": "PiEzm-AAAAAJ",
+        "url": null
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Suzanne Embury",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "Reader in Software Engineering, Dept of Computer Science, The University of Manchester",
+            "citedby": 2152,
+            "container_type": "Author",
+            "email_domain": "@cs.manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Data journey modelling",
+                "BDD/TDD",
+                "pay-as-you-go-data integration",
+                "business rules",
+                "software engineering education"
+            ],
+            "name": "Suzanne Embury",
+            "scholar_id": "ALuTB-gAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ALuTB-gAAAAJ"
+        },
+        "scholar_id": "ALuTB-gAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/suzanne.m.embury.html"
+    },
+    {
+        "area": "Autonomy and verification",
+        "area_url": "/research/expertise/autonomy-and-verification/",
+        "name": "Marie Farrell",
+        "role": "Royal Academy of Engineering Fellow",
+        "scholar": {
+            "affiliation": "The University of Manchester",
+            "citedby": 651,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Formal Methods",
+                "Autonomous Robotic Systems",
+                "Software Verification"
+            ],
+            "name": "Marie Farrell",
+            "scholar_id": "x5mgmY8AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=x5mgmY8AAAAJ"
+        },
+        "scholar_id": "x5mgmY8AAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/marie-farrell"
+    },
+    {
+        "area": "Autonomy and verification",
+        "area_url": "/research/expertise/autonomy-and-verification/",
+        "name": "Michael Fisher",
+        "role": "Professor, Royal Academy of Engineering Chair in Emerging Technologies",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, University of Manchester",
+            "citedby": 10553,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Autonomous Systems",
+                "Trustworthiness",
+                "Formal Methods",
+                "Temporal Logic",
+                "Model Checking"
+            ],
+            "name": "Michael Fisher",
+            "scholar_id": "ObjR3wwAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ObjR3wwAAAAJ"
+        },
+        "scholar_id": "ObjR3wwAAAAJ",
+        "url": "https://personalpages.manchester.ac.uk/staff/michael.fisher"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Alejandro Frangi",
+        "role": "Professor, Bicentennial Turing Chair in Computational Medicine, \r\nRoyal Academy of Engineering Chair in Emerging Technologies, \r\nDirector of the Christabel Pankhurst Institute.",
+        "scholar": {
+            "affiliation": "Bicentennial Turing Chair | RAEng Chair at the University of Manchester; KU Leuven; Alan …",
+            "citedby": 35118,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "medical image computing",
+                "computational medicine",
+                "in silico trials"
+            ],
+            "name": "Alejandro F Frangi",
+            "scholar_id": "9fGrB0sAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=9fGrB0sAAAAJ"
+        },
+        "scholar_id": "9fGrB0sAAAAJ",
+        "url": null
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Andre Freitas",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester | Idiap Research Institute",
+            "citedby": 3011,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Artificial Intelligence",
+                "Natural Language Processing",
+                "Explainable AI",
+                "Natural Language Inference"
+            ],
+            "name": "André Freitas",
+            "scholar_id": "ExmHmMoAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ExmHmMoAAAAJ"
+        },
+        "scholar_id": "ExmHmMoAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/andre.freitas.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Steve Furber",
+        "role": "ICL Professor",
+        "scholar": {
+            "affiliation": "… of Computer Engineering, Department of Computer Science, The University of Manchester …",
+            "citedby": 16901,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Neural Networks",
+                "Networks-on-Chip",
+                "Microprocessors"
+            ],
+            "name": "Steve Furber",
+            "scholar_id": "jLnsiBEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=jLnsiBEAAAAJ"
+        },
+        "scholar_id": "jLnsiBEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/steve.furber.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Aphrodite Galata",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 1237,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "computer vision",
+                "machine learning"
+            ],
+            "name": "Aphrodite Galata",
+            "scholar_id": "vAY0HccAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vAY0HccAAAAJ"
+        },
+        "scholar_id": "vAY0HccAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/a.galata.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "James Garside",
+        "role": "Senior Lecturer",
+        "scholar_id": null,
+        "url": "https://www.research.manchester.ac.uk/portal/james.garside.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Carole Goble",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, University of Manchester",
+            "citedby": 45677,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Semantic web",
+                "bioinformatics",
+                "escience",
+                "social computing",
+                "workflows"
+            ],
+            "name": "Carole Goble",
+            "scholar_id": "2G4kqPYAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=2G4kqPYAAAAJ"
+        },
+        "scholar_id": "2G4kqPYAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/carole.goble.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "John Goodacre",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor Computer Architectures, School of Computer Science, University of Manchester",
+            "citedby": 1070,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "computer architecture",
+                "3D VLSI",
+                "HPC",
+                "low power",
+                "virtualization"
+            ],
+            "name": "John Goodacre",
+            "scholar_id": "MJtl3X4AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=MJtl3X4AAAAJ"
+        },
+        "scholar_id": "MJtl3X4AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/john.goodacre.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Simon Harper",
+        "role": "Director of PGR",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 5421,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Web Accessibility",
+                "Accessibility",
+                "world wide web",
+                "human computer interaction",
+                "human factors"
+            ],
+            "name": "Simon Harper",
+            "scholar_id": "SQEdResAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=SQEdResAAAAJ"
+        },
+        "scholar_id": "SQEdResAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/simon.harper.html"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Gareth Henshall",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer, The University of Manchester",
+            "citedby": 33,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Pedagogic",
+                "VR"
+            ],
+            "name": "Gareth Henshall",
+            "scholar_id": "whFye-4AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=whFye-4AAAAJ"
+        },
+        "scholar_id": "whFye-4AAAAJ",
+        "url": null
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Duncan Hull",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer (Assistant Professor), Department of Computer Science, University of Manchester …",
+            "citedby": 4910,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Computer Science Education",
+                "Employability",
+                "Wikipedia",
+                "Computing Education Research",
+                "Bioinformatics"
+            ],
+            "name": "Duncan Hull",
+            "scholar_id": "iDJ-t7IAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=iDJ-t7IAAAAJ"
+        },
+        "scholar_id": "iDJ-t7IAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/duncan.hull.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Caroline Jay",
+        "role": "Professor of Computer Science, Head of Research in the School of Engineering",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, University of Manchester, UK",
+            "citedby": 2333,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "human-computer interaction",
+                "software sustainability",
+                "research software engineering"
+            ],
+            "name": "Caroline Jay",
+            "scholar_id": "AR0vM2QAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=AR0vM2QAAAAJ"
+        },
+        "scholar_id": "AR0vM2QAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/caroline.jay.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Sami Kaski",
+        "role": "Professor of Artificial Intelligence",
+        "scholar": {
+            "affiliation": "Professor, Aalto University and University of Manchester",
+            "citedby": 20554,
+            "container_type": "Author",
+            "email_domain": "@aalto.fi",
+            "filled": [],
+            "interests": [
+                "Probabilistic machine learning",
+                "human-AI interaction",
+                "simulation-based inference",
+                "computational medicine"
+            ],
+            "name": "Samuel Kaski",
+            "scholar_id": "uF6H9jMAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=uF6H9jMAAAAJ"
+        },
+        "scholar_id": "uF6H9jMAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/samuel.kaski.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "John Keane",
+        "role": "Professor, Director of Business Engagement",
+        "scholar_id": null,
+        "url": "https://research.manchester.ac.uk/en/persons/john-keane"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Dirk Koch",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 3883,
+            "container_type": "Author",
+            "email_domain": "@recobus.de",
+            "filled": [],
+            "interests": [
+                "Reconfigurable Computing",
+                "FPGA",
+                "Partial Reconfiguration",
+                "Computer Architecture",
+                "Parallel Processing"
+            ],
+            "name": "Dirk Koch",
+            "scholar_id": "GlZ0Vw8AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=GlZ0Vw8AAAAJ"
+        },
+        "scholar_id": "GlZ0Vw8AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/dirk.koch.html"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Konstantin Korovin",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "University of Manchester, School of Computer Science",
+            "citedby": 1305,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Automated Reasoning",
+                "Verification",
+                "Logic",
+                "Formal Methods"
+            ],
+            "name": "Konstantin Korovin",
+            "scholar_id": "NCNsDlYAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=NCNsDlYAAAAJ"
+        },
+        "scholar_id": "NCNsDlYAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/konstantin-korovin"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Christos-Efthymios Kotselidis",
+        "alias": [
+            "Christos Kotselidis"
+        ],
+        "role": "Reader",
+        "scholar_id": "A8z1ZuoAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/christos.kotselidis.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Kung-Kiu Lau",
+        "role": "Senior Lecturer",
+        "scholar_id": null,
+        "url": "https://www.research.manchester.ac.uk/portal/kung-kiu.lau.html"
+    },
+    {
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Chenghua Lin",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Natural Language Processing, University of Manchester",
+            "citedby": 3912,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Natural language processing",
+                "natural language generation",
+                "machine learning",
+                "text mining"
+            ],
+            "name": "Chenghua Lin",
+            "scholar_id": "Tp1RdIQAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Tp1RdIQAAAAJ"
+        },
+        "scholar_id": "Tp1RdIQAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/chenghua-lin"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Francisco Lobo",
+        "role": "Lecturer",
+        "scholar_id": null,
+        "url": null
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Mikel Lujan",
+        "role": "Professor (RAEng Chair)",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 5146,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Application Specific Architectures",
+                "Parallel Programming",
+                "Dynamic Binary Instrumentation and …",
+                "Managed Runtime Enviro"
+            ],
+            "name": "Mikel Lujan",
+            "scholar_id": "X7USiLMAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=X7USiLMAAAAJ"
+        },
+        "scholar_id": "X7USiLMAAAAJ",
+        "url": null
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Bernardo Magri",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "The University of Manchester",
+            "citedby": 1542,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Cryptography"
+            ],
+            "name": "Bernardo Magri",
+            "scholar_id": "B3FerDQAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=B3FerDQAAAAJ"
+        },
+        "scholar_id": "B3FerDQAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/bernardo.magri.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Zahra Montazeri",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 35,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Computer Graphics"
+            ],
+            "name": "Zahra Montazeri",
+            "scholar_id": "WwncYUcAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=WwncYUcAAAAJ"
+        },
+        "scholar_id": "WwncYUcAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/zahra.montazeri.html"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Terence Morley",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "PhD Student, Department of Computer Science, The University of Manchester, UK.",
+            "citedby": 4,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "computer vision",
+                "image processing",
+                "drone",
+                "uav",
+                "visual localisation"
+            ],
+            "name": "Terence Morley",
+            "scholar_id": "kYwP6n0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=kYwP6n0AAAAJ"
+        },
+        "scholar_id": "kYwP6n0AAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/terence.morley"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Tim Morris",
+        "alias": [
+            "David Morris"
+        ],
+        "role": "Senior Lecturer",
+        "scholar_id": "kqz6Id8AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/tim.morris.html"
+    },
+    {
+        "area": "Nano-engineering and spintronic technologies",
+        "area_url": "/research/expertise/nano-engineering/",
+        "name": "Christoforos Moutafis",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 2865,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "skyrmionics",
+                "nanocomputing",
+                "neuromorphics",
+                "nanomagnetism",
+                "spintronics"
+            ],
+            "name": "Christoforos Moutafis",
+            "scholar_id": "adiGYU8AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=adiGYU8AAAAJ"
+        },
+        "scholar_id": "adiGYU8AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/christoforos.moutafis.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Tingting Mu",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Computer Science, University of Manchester",
+            "citedby": 1710,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Machine Learning"
+            ],
+            "name": "Tingting Mu",
+            "scholar_id": "dOG10IUAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=dOG10IUAAAAJ"
+        },
+        "scholar_id": "dOG10IUAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/tingting.mu.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Anirbit Mukherjee",
+        "role": "Lecturer in Machine Learning",
+        "scholar": {
+            "affiliation": "Department of Computer Science, The University of Manchester",
+            "citedby": 914,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Deep Learning Theory",
+                "Differential Equations"
+            ],
+            "name": "Anirbit Mukherjee",
+            "scholar_id": "V32KjH0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=V32KjH0AAAAJ"
+        },
+        "scholar_id": "V32KjH0AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/anirbit.mukherjee.html"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Mustafa Mustafa",
+        "role": "Senior Lecturer, Lead of Trusted Digital Systems cluster",
+        "scholar": {
+            "affiliation": "University of Manchester & COSIC KU Leuven",
+            "citedby": 1282,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Applied Cryptography",
+                "Information Security",
+                "Privacy",
+                "Smart Grid"
+            ],
+            "name": "Mustafa A. Mustafa",
+            "scholar_id": "lP0z5wEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=lP0z5wEAAAAJ"
+        },
+        "scholar_id": "lP0z5wEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/mustafa.mustafa.html"
+    },
+    {
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Goran Nenadic",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 5898,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Natural language processing",
+                "text mining",
+                "health informatics"
+            ],
+            "name": "Goran Nenadic",
+            "scholar_id": "CyTXHuUAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=CyTXHuUAAAAJ"
+        },
+        "scholar_id": "CyTXHuUAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/gnenadic.html"
+    },
+    {
+        "area": "Machine Learning and Robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Wei Pan",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 2894,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Control",
+                "Machine Learning",
+                "Robotics"
+            ],
+            "name": "Wei Pan",
+            "scholar_id": "GqryWPsAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=GqryWPsAAAAJ"
+        },
+        "scholar_id": "GqryWPsAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/en/researchers/wei-pan(7543834f-4e4d-4596-9038-11ce2d879f9e).html"
+    },
+    {
+        "area": "Nano-engineering and spintronic technologies",
+        "area_url": "/research/expertise/nano-engineering/",
+        "name": "Paul Nutter",
+        "role": "Reader, Director of Undergraduate Studies",
+        "scholar": {
+            "affiliation": "Reader, School of Computer Science, The University of Manchester",
+            "citedby": 703,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Magnetic recording and materials"
+            ],
+            "name": "Paul Nutter",
+            "scholar_id": "Phqin7oAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Phqin7oAAAAJ"
+        },
+        "scholar_id": "Phqin7oAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/p.nutter.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Pierre Olivier",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Senior lecturer, University of Manchester, Department of Computer Science",
+            "citedby": 725,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Operating Systems",
+                "Hypervisors",
+                "Systems Security"
+            ],
+            "name": "Pierre Olivier",
+            "scholar_id": "rBr5a7UAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=rBr5a7UAAAAJ"
+        },
+        "scholar_id": "rBr5a7UAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/pierre.olivier.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Bijan Parsia",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, University of Manchester",
+            "citedby": 27217,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Artificial Intelligence",
+                "Ontologies",
+                "Semantic Web",
+                "Knowledge Representation"
+            ],
+            "name": "Bijan Parsia",
+            "scholar_id": "UBcjZigAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=UBcjZigAAAAJ"
+        },
+        "scholar_id": "UBcjZigAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/bijan.parsia.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Norman Paton",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, University of Manchester",
+            "citedby": 16579,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "information integration",
+                "query processing",
+                "data lakes"
+            ],
+            "name": "Norman W. Paton",
+            "scholar_id": "X-9OH6AAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=X-9OH6AAAAAJ"
+        },
+        "scholar_id": "X-9OH6AAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/norman.paton.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Vasileios Pavlidis",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Computer Science and University of Manchester",
+            "citedby": 2317,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Electrical engineering"
+            ],
+            "name": "Vasilis F. Pavlidis",
+            "scholar_id": "-hDlKqwAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=-hDlKqwAAAAJ"
+        },
+        "scholar_id": "-hDlKqwAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/vasileios.pavlidis.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Pavlos Petoumenos",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer, Department of Computer Science, University of Manchester",
+            "citedby": 1251,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Computer Architecture",
+                "Compilers",
+                "Machine Learning"
+            ],
+            "name": "Pavlos Petoumenos",
+            "scholar_id": "0fpFdr4AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=0fpFdr4AAAAJ"
+        },
+        "scholar_id": "0fpFdr4AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/pavlos.petoumenos.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Stephen Pettifer",
+        "role": "Professor, Director of Teaching Strategy, Associate Dean for Teaching",
+        "scholar": {
+            "affiliation": "Reader, School of Computer Science, The University of Manchester",
+            "citedby": 5419,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Visualisation",
+                "Bioinformatics",
+                "Computer Graphics",
+                "Semantic Publishing"
+            ],
+            "name": "Stephen Pettifer",
+            "scholar_id": "yUwh2bEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=yUwh2bEAAAAJ"
+        },
+        "scholar_id": "yUwh2bEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/steve.pettifer.html"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Ian Pratt-Hartmann",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 2043,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Computational logic",
+                "computational complexity",
+                "natural language",
+                "topology"
+            ],
+            "name": "Ian Pratt-Hartmann",
+            "scholar_id": "M1xicaEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=M1xicaEAAAAJ"
+        },
+        "scholar_id": "M1xicaEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/ian.pratt.html"
+    },
+    {
+        "area": "Teaching",
+        "area_url": null,
+        "name": "Joseph Razavi",
+        "role": "Lecturer",
+        "scholar_id": null,
+        "url": "https://research.manchester.ac.uk/en/persons/joseph.razavi"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Giles Reger",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Amazon and University of Manchester",
+            "citedby": 2314,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Theorem Proving",
+                "Program Verification",
+                "Runtime Monitoring"
+            ],
+            "name": "Giles Reger",
+            "scholar_id": "Js3EdsEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Js3EdsEAAAAJ"
+        },
+        "scholar_id": "Js3EdsEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/giles.reger.html"
+    },
+    {
+        "area": " Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Oliver Rhodes",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer in Bio-Inspired Computing, University of Manchester",
+            "citedby": 333,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Neuromorphic Computing"
+            ],
+            "name": "Oliver Rhodes",
+            "scholar_id": "YKS52KIAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=YKS52KIAAAAJ"
+        },
+        "scholar_id": "YKS52KIAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/oliver.rhodes.html"
+    },
+    {
+        "area": "Advanced processor technologies",
+        "area_url": "/research/expertise/advanced-processor-technologies/",
+        "name": "Graham Riley",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer in Computer Science, University of Manchester",
+            "citedby": 1714,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "parallel computing",
+                "high performance computing",
+                "flexible coupling"
+            ],
+            "name": "Graham Riley",
+            "scholar_id": "OaRHgWIAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=OaRHgWIAAAAJ"
+        },
+        "scholar_id": "OaRHgWIAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/graham.riley.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Rizos Sakellariou",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "University of Manchester, Department of Computer Science",
+            "citedby": 8349,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Parallel and Distributed Systems",
+                "Large-Scale Software Systems",
+                "Computer Science"
+            ],
+            "name": "Rizos Sakellariou",
+            "scholar_id": "5LPRRM8AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=5LPRRM8AAAAJ"
+        },
+        "scholar_id": "5LPRRM8AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/rizos.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Sandra Sampaio",
+        "role": "Lecturer",
+        "scholar_id": null,
+        "url": "https://www.research.manchester.ac.uk/portal/s.sampaio.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Uli Sattler",
+        "role": "Professor, Deputy Head of Department",
+        "scholar": {
+            "affiliation": "Professor, IMG, Department of Computer Science, University of Manchester",
+            "citedby": 22635,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Description Logics",
+                "Ontology Engineering",
+                "Automated Reasoning"
+            ],
+            "name": "Uli Sattler",
+            "scholar_id": "uMI-tgsAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=uMI-tgsAAAAJ"
+        },
+        "scholar_id": "uMI-tgsAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/uli.sattler.html"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Andrea Schalk",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "School of Computer Science, University of Manchester",
+            "citedby": 532,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "categorical models of logics and computation"
+            ],
+            "name": "Andrea Schalk",
+            "scholar_id": "odEJK7EAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=odEJK7EAAAAJ"
+        },
+        "scholar_id": "odEJK7EAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/andrea.schalk.html"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Renate Schmidt",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "School of Computer Science, The University of Manchester",
+            "citedby": 3890,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Automated Reasoning",
+                "Knowledge Engineering",
+                "Artificial Intelligence"
+            ],
+            "name": "Renate A Schmidt",
+            "scholar_id": "1bu5pB0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=1bu5pB0AAAAJ"
+        },
+        "scholar_id": "1bu5pB0AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/renate.schmidt.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Jonathan Shapiro",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 4761,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Optimization"
+            ],
+            "name": "Jonathan Shapiro",
+            "scholar_id": "nLmrwfgAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=nLmrwfgAAAAJ"
+        },
+        "scholar_id": "nLmrwfgAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/jonathan.l.shapiro.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Stian Soiland-Reyes",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Senior Lecturer, Department of Computer Science, The University of Manchester",
+            "citedby": 4946,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Reproducibility",
+                "Workflows",
+                "Open Science",
+                "Web Standards",
+                "Linked Data"
+            ],
+            "name": "Stian Soiland-Reyes",
+            "scholar_id": "OeBjonkAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=OeBjonkAAAAJ"
+        },
+        "scholar_id": "OeBjonkAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/soiland-reyes"
+    },
+    {
+        "area": null,
+        "area_url": null,
+        "name": "Andrew Stewart",
+        "role": "Head of Department",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 3654,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Cognitive Science",
+                "Experimental Psychology",
+                "Psycholinguistics",
+                "Open Research"
+            ],
+            "name": "Andrew Stewart",
+            "scholar_id": "o0cD2JgAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=o0cD2JgAAAAJ"
+        },
+        "scholar_id": "o0cD2JgAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/andrew.j.stewart.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Robert Stevens",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "Professor of Computer Science, Department of Computer Science, university of manchester",
+            "citedby": 24258,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Bioinformatics",
+                "bio-ontologies",
+                "accessibility",
+                "visual disability"
+            ],
+            "name": "Robert Stevens",
+            "scholar_id": "P7ACZMQAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=P7ACZMQAAAAJ"
+        },
+        "scholar_id": "P7ACZMQAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/robert.stevens.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Mingfei Sun",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 896,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Reinforcement Learning",
+                "Generative Models",
+                "Human-Robot Interaction"
+            ],
+            "name": "Mingfei Sun",
+            "scholar_id": "2Uzgp5kAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=2Uzgp5kAAAAJ"
+        },
+        "scholar_id": "2Uzgp5kAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/mingfei-sun"
+    },
+    {
+        "area": "Systems and software security",
+        "area_url": "/research/expertise/systems-and-software-security/",
+        "name": "Youcheng Sun",
+        "role": "Lecturer",
+        "scholar": {
+            "affiliation": "Lecturer, University of Manchester",
+            "citedby": 2295,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Trustworthy AI",
+                "Automated Reasoning"
+            ],
+            "name": "Youcheng Sun",
+            "scholar_id": "Qbb5pBUAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Qbb5pBUAAAAJ"
+        },
+        "scholar_id": "Qbb5pBUAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Chris Taylor",
+        "role": "Professor, Associate VP Digital Strategy and Innovation",
+        "scholar": {
+            "affiliation": "Professor of Imaging Science and Computer Science, University of Manchester",
+            "citedby": 53759,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "computer vision",
+                "medical imaging",
+                "medical image analysis",
+                "medical image computing",
+                "artificial intelligence"
+            ],
+            "name": "Chris Taylor",
+            "scholar_id": "WgY2gPEAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=WgY2gPEAAAAJ"
+        },
+        "scholar_id": "WgY2gPEAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/chris.taylor.html"
+    },
+    {
+        "area": "Nano-engineering and spintronic technologies",
+        "area_url": "/research/expertise/nano-engineering/",
+        "name": "Thomas Thomson",
+        "role": "Professor",
+        "scholar_id": null,
+        "url": "https://www.research.manchester.ac.uk/portal/thomas.thomson.html"
+    },
+    {
+        "area": "Natural language processing and text mining",
+        "area_url": "/research/expertise/natural-language-processing/",
+        "name": "Junichi Tsujii",
+        "role": "Professor, Scientific Advisor of NaCTeM",
+        "scholar_id": "h3aNnAIAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/j.tsujii.html"
+    },
+    {
+        "area": "Human computer systems",
+        "area_url": "/research/expertise/human-computer-systems/",
+        "name": "Markel Vigo",
+        "role": "Reader",
+        "scholar": {
+            "affiliation": "Reader in Computer Science, University of Manchester",
+            "citedby": 2588,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Human Computer Interaction",
+                "User Modeling",
+                "Health Informatics",
+                "Accessibility"
+            ],
+            "name": "Markel Vigo",
+            "scholar_id": "zDn5C90AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=zDn5C90AAAAJ"
+        },
+        "scholar_id": "zDn5C90AAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/markel.vigo.html"
+    },
+    {
+        "area": "Formal methods",
+        "area_url": "/research/expertise/formal-methods/",
+        "name": "Andrei Voronkov",
+        "role": "Professor",
+        "scholar": {
+            "affiliation": "The University of Manchester; EasyChair",
+            "citedby": 8534,
+            "container_type": "Author",
+            "email_domain": "@cs.man.ac.uk",
+            "filled": [],
+            "interests": [
+                "Automated Reasoning",
+                "Web Services"
+            ],
+            "name": "Andrei Voronkov",
+            "scholar_id": "fT6jrC0AAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=fT6jrC0AAAAJ"
+        },
+        "scholar_id": "fT6jrC0AAAAJ",
+        "url": null
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Xiao-Jun Zeng",
+        "role": "Professor of Machine Learning",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 15095,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Computational Intelligence",
+                "Machine Learning",
+                "Data mining",
+                "Decision Support Systems"
+            ],
+            "name": "Xiao-Jun Zeng",
+            "scholar_id": "jb-bYtIAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=jb-bYtIAAAAJ"
+        },
+        "scholar_id": "jb-bYtIAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/x.zeng.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Ning Zhang",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "University of Manchester",
+            "citedby": 845,
+            "container_type": "Author",
+            "email_domain": "@mancheser.ac.uk",
+            "filled": [],
+            "interests": [
+                "Security",
+                "Protocols",
+                "Networks"
+            ],
+            "name": "Ning Zhang",
+            "scholar_id": "aAtJXuwAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=aAtJXuwAAAAJ"
+        },
+        "scholar_id": "aAtJXuwAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/ning.zhang-2.html"
+    },
+    {
+        "area": "Information management",
+        "area_url": "/research/expertise/information-management/",
+        "name": "Liping Zhao",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Department of Computer Science, University of Manchester",
+            "citedby": 2108,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Requirements Engineering",
+                "Natural Language Processing",
+                "Software Engineering"
+            ],
+            "name": "Liping Zhao",
+            "scholar_id": "3LKbvlQAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=3LKbvlQAAAAJ"
+        },
+        "scholar_id": "3LKbvlQAAAAJ",
+        "url": "https://www.research.manchester.ac.uk/portal/liping.zhao.html"
+    },
+    {
+        "area": "Robotics, Control, Communications & AI",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Philip Zhao",
+        "role": "Senior Lecturer",
+        "scholar": {
+            "affiliation": "Associate Professor (Senior Lecturer) University of Manchester, UK",
+            "citedby": 2900,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Robotics and AI",
+                "5G/6G",
+                "Digital Manufacturing",
+                "Healthcare"
+            ],
+            "name": "Dr Philip Guodong Zhao",
+            "scholar_id": "l-v6RuAAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=l-v6RuAAAAAJ"
+        },
+        "scholar_id": "l-v6RuAAAAAJ",
+        "url": "mailto:philip.zhao@manchester.ac.uk"
+    },
+    {
+        "area": "Machine learning and robotics",
+        "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "name": "Hongpeng Zhou",
+        "role": "Dame Kathleen Ollerenshaw Fellow",
+        "scholar": {
+            "affiliation": "Assistant Professor, Computer Sciecne, University of Manchester",
+            "citedby": 296,
+            "container_type": "Author",
+            "email_domain": "@manchester.ac.uk",
+            "filled": [],
+            "interests": [
+                "Machine & Deep Learning",
+                "Interepretable Learning",
+                "System Identification",
+                "Bioinformatics",
+                "AI for Healthcare"
+            ],
+            "name": "Hongpeng Zhou",
+            "scholar_id": "StuUN6wAAAAJ",
+            "source": "SEARCH_AUTHOR_SNIPPETS",
+            "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=StuUN6wAAAAJ"
+        },
+        "scholar_id": "StuUN6wAAAAJ",
+        "url": "https://research.manchester.ac.uk/en/persons/hongpeng-zhou"
+    }
+]
