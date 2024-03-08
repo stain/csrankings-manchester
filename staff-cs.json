@@ -2,6 +2,11 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/00/9830",
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Mauricio Alvarez",
         "orcid": "https://orcid.org/0000-0002-8980-4472",
         "role": "Senior Lecturer",
@@ -28,6 +33,16 @@
     {
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
+        "dblp": "https://dblp.org/pid/47/4142",
+        "keywords": [
+            "Digital Futures",
+            "Manchester Institute of Biotechnology",
+            "Creative Manchester",
+            "Natural Language Processing",
+            "Text Mining",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
         "name": "Sophia Ananiadou",
         "orcid": "https://orcid.org/0000-0002-4097-9191",
         "role": "Professor",
@@ -54,6 +69,10 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Richard Banach",
         "orcid": "https://orcid.org/0000-0002-0243-9434",
         "role": "Senior Lecturer",
@@ -82,6 +101,10 @@
         ],
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
+        "dblp": "https://dblp.org/pid/92/11424",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Riza Theresa Batista-Navarro",
         "orcid": "https://orcid.org/0000-0001-6693-7531",
         "role": "Senior Lecturer",
@@ -110,6 +133,12 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Sean Bechhofer",
         "orcid": "https://orcid.org/0000-0002-5872-3573",
         "role": "Reader in Computer Science, Director of Teaching and Learning",
@@ -133,6 +162,17 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Neuromorphic Computing",
+            "Electronic Design Automation",
+            "Computer Architecture",
+            "TK Electrical engineering. Electronics Nuclear engineering",
+            "Digital System Design",
+            "Emerging Technologies",
+            "Interconnection Networks"
+        ],
         "name": "Davide Bertozzi",
         "orcid": "https://orcid.org/0000-0001-7462-4551",
         "role": "Reader",
@@ -156,6 +196,10 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science"
+        ],
         "name": "Stewart Blakeway",
         "orcid": null,
         "role": "Lecturer",
@@ -179,6 +223,12 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Lydia Becker Institute",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Andrew Brass",
         "orcid": "https://orcid.org/0000-0002-0389-7058",
         "role": "Professor",
@@ -205,6 +255,12 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/93/2057-1",
+        "keywords": [
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Gavin Brown",
         "orcid": "https://orcid.org/0000-0003-2261-9018",
         "role": "Professor",
@@ -230,6 +286,22 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/79/4440",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Cognitive Robotics",
+            "Artificial Intelligence",
+            "Cognitive Science",
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Autism@Manchester",
+            "Creative Manchester",
+            "Artificial Intelligence",
+            "Robotics",
+            "Cognitive Science",
+            "Machine learning",
+            "Language learning"
+        ],
         "name": "Angelo Cangelosi",
         "orcid": "https://orcid.org/0000-0002-4709-2243",
         "role": "Professor, Deputy Director of Research",
@@ -259,6 +331,10 @@
         ],
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Tom Carroll",
         "orcid": "https://orcid.org/0000-0002-3020-2661",
         "role": "Lecturer",
@@ -268,6 +344,14 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": null,
+        "keywords": [
+            "QA76 Computer software",
+            "Knowledge Graph",
+            "Knowledge Representation",
+            "Knowledge Engineering",
+            "Machine Learning"
+        ],
         "name": "Jiaoyan Chen",
         "orcid": "https://orcid.org/0000-0003-4643-6750",
         "role": "Lecturer",
@@ -294,6 +378,21 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Christabel Pankhurst Institute",
+            "Manchester Institute for Collaborative Research on Ageing",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Intelligent Systems Development",
+            "Computational Cognitive Systems",
+            "Machine Perception",
+            "Pattern Recognition",
+            "Video Game Development",
+            "Affective Computing"
+        ],
         "name": "Ke Chen",
         "orcid": "https://orcid.org/0000-0001-9457-9364",
         "role": "Senior Lecturer",
@@ -321,6 +420,10 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": "https://dblp.org/pid/49/10484",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Sarah Clinch",
         "orcid": "https://orcid.org/0000-0002-9305-4774",
         "role": "Senior Lecturer",
@@ -347,6 +450,10 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
+        "dblp": null,
+        "keywords": [
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Emily Collins",
         "orcid": "https://orcid.org/0000-0001-9396-536X",
         "role": "Dame Kathleen Ollerenshaw Fellow",
@@ -374,6 +481,15 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Software Engineering",
+            "Formal Methods",
+            "Automated Program Verification and Synthesis",
+            "Software Security",
+            "Embedded & Cyber-Physical Systems"
+        ],
         "name": "Lucas Cordeiro",
         "orcid": "https://orcid.org/0000-0002-6235-4272",
         "role": "Reader, Director of the ARM Center of Excellence",
@@ -401,6 +517,8 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [],
         "name": "Alex Creswell",
         "orcid": null,
         "role": "Chair in Digital And Artificial Intelligence",
@@ -410,6 +528,15 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
+        "dblp": "https://dblp.org/pid/58/1750",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Formal Verification",
+            "Machine Ethics",
+            "Autonomous Systems",
+            "Agent Programming",
+            "Digital Futures"
+        ],
         "name": "Louise Dennis",
         "orcid": "https://orcid.org/0000-0003-1426-1896",
         "role": "Reader",
@@ -437,6 +564,11 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Verification, Automated Reasoning, Logics, Artificiial Intelligence, Reliable Autonomy and Robotics"
+        ],
         "name": "Clare Dixon",
         "orcid": "https://orcid.org/0000-0002-4610-9533",
         "role": "School of Engineering Deputy Head of Research and Computer Science Research Lead",
@@ -463,6 +595,8 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [],
         "name": "Daniel Dresner",
         "orcid": null,
         "role": "Professor",
@@ -489,6 +623,14 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/e/SMEmbury",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Software testing",
+            "Agile software engineering",
+            "Git workflows",
+            "Digital Futures"
+        ],
         "name": "Suzanne Embury",
         "orcid": "https://orcid.org/0000-0002-3711-0778",
         "role": "Reader",
@@ -516,6 +658,8 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
+        "dblp": null,
+        "keywords": [],
         "name": "Marie Farrell",
         "orcid": "https://orcid.org/0000-0001-7708-3877",
         "role": "Royal Academy of Engineering Fellow",
@@ -541,6 +685,8 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
+        "dblp": null,
+        "keywords": [],
         "name": "Michael Fisher",
         "orcid": null,
         "role": "Professor, Royal Academy of Engineering Chair in Emerging Technologies",
@@ -568,6 +714,8 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [],
         "name": "Alejandro Frangi",
         "orcid": null,
         "role": "Professor, Bicentennial Turing Chair in Computational Medicine, \r\nRoyal Academy of Engineering Chair in Emerging Technologies, \r\nDirector of the Christabel Pankhurst Institute.",
@@ -593,6 +741,11 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Thomas Ashton Institute"
+        ],
         "name": "Andre Freitas",
         "orcid": "https://orcid.org/0000-0002-4430-4837",
         "role": "Senior Lecturer",
@@ -619,6 +772,10 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Steve Furber",
         "orcid": "https://orcid.org/0000-0002-6524-3367",
         "role": "ICL Professor",
@@ -644,6 +801,12 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Computer Vision",
+            "Machine Learning"
+        ],
         "name": "Aphrodite Galata",
         "orcid": "https://orcid.org/0000-0002-9229-7811",
         "role": "Lecturer",
@@ -668,6 +831,10 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": "https://dblp.org/pid/60/4660",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "James Garside",
         "orcid": "https://orcid.org/0000-0001-8812-4742",
         "role": "Senior Lecturer",
@@ -677,6 +844,11 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/g/CaroleAGoble",
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Carole Goble",
         "orcid": "https://orcid.org/0000-0003-1219-2137",
         "role": "Professor",
@@ -704,6 +876,20 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Architecture",
+            "ARM",
+            "HPC",
+            "IoT",
+            "Embedded",
+            "Systems",
+            "QA76 Computer software",
+            "OS",
+            "Architecture",
+            "Digital Futures"
+        ],
         "name": "John Goodacre",
         "orcid": "https://orcid.org/0000-0002-7920-8028",
         "role": "Professor",
@@ -731,6 +917,16 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": "https://dblp.org/pid/h/SimonHarper",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "QA76 Computer software",
+            "Dementia@Manchester",
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Christabel Pankhurst Institute",
+            "Digital health"
+        ],
         "name": "Simon Harper",
         "orcid": "https://orcid.org/0000-0001-9301-5049",
         "role": "Director of PGR",
@@ -758,6 +954,8 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [],
         "name": "Gareth Henshall",
         "orcid": null,
         "role": "Lecturer",
@@ -782,6 +980,13 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": "https://dblp.org/pid/h/DuncanHull",
+        "keywords": [
+            "L Education (General)",
+            "Q Science (General)",
+            "LB2300 Higher Education",
+            "Digital Futures"
+        ],
         "name": "Duncan Hull",
         "orcid": "https://orcid.org/0000-0003-2387-503X",
         "role": "Lecturer",
@@ -809,6 +1014,15 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI",
+            "Sustainable Futures",
+            "Christabel Pankhurst Institute",
+            "Manchester Environmental Research Institute",
+            "Creative Manchester"
+        ],
         "name": "Caroline Jay",
         "orcid": "https://orcid.org/0000-0002-6080-1382",
         "role": "Professor of Computer Science, Head of Research in the School of Engineering",
@@ -834,6 +1048,21 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Christabel Pankhurst Institute",
+            "Institute for Data Science and AI",
+            "Sustainable Futures",
+            "Digital Futures",
+            "Machine Learning",
+            "Probabilistic Modelling",
+            "Artificial Inteligence",
+            "Bioinformatics",
+            "Computational medicine",
+            "User-centred Design",
+            "Brain signal analysis",
+            "User interaction"
+        ],
         "name": "Sami Kaski",
         "orcid": null,
         "role": "Professor of Artificial Intelligence",
@@ -860,6 +1089,12 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/53/358",
+        "keywords": [
+            "Sustainable Futures",
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "John Keane",
         "orcid": "https://orcid.org/0000-0001-9022-4339",
         "role": "Professor, Director of Business Engagement",
@@ -869,6 +1104,11 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI"
+        ],
         "name": "Dirk Koch",
         "orcid": "https://orcid.org/0000-0002-2568-4432",
         "role": "Reader",
@@ -896,6 +1136,13 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": "https://dblp.org/pid/k/KonstantinKorovin",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Logic, reasoning, formal methods, combination of reasoning and machine learning",
+            "QA76 Computer software",
+            "Digital Futures"
+        ],
         "name": "Konstantin Korovin",
         "orcid": "https://orcid.org/0000-0002-0740-621X",
         "role": "Reader",
@@ -925,6 +1172,10 @@
         ],
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Christos-Efthymios Kotselidis",
         "orcid": "https://orcid.org/0000-0002-8146-3503",
         "role": "Reader",
@@ -956,6 +1207,11 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/l/KungKiuLau",
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI"
+        ],
         "name": "Kung-Kiu Lau",
         "orcid": "https://orcid.org/0000-0002-7692-0052",
         "role": "Senior Lecturer",
@@ -965,6 +1221,8 @@
     {
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
+        "dblp": null,
+        "keywords": [],
         "name": "Chenghua Lin",
         "orcid": null,
         "role": "Professor",
@@ -991,6 +1249,8 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [],
         "name": "Francisco Lobo",
         "orcid": null,
         "role": "Lecturer",
@@ -1000,6 +1260,8 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [],
         "name": "Mikel Lujan",
         "orcid": null,
         "role": "Professor (RAEng Chair)",
@@ -1026,6 +1288,12 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Cryptography",
+            "Distributed ledger technologies"
+        ],
         "name": "Bernardo Magri",
         "orcid": null,
         "role": "Senior Lecturer",
@@ -1049,6 +1317,18 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Computer Graphics",
+            "Computer Graghics",
+            "Rendering",
+            "Appearance Modeling",
+            "Neural Rendering",
+            "Physics-based rendering",
+            "Photorealistic rendering",
+            "Visual Computing"
+        ],
         "name": "Zahra Montazeri",
         "orcid": null,
         "role": "Lecturer",
@@ -1072,6 +1352,17 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Image Processing",
+            "Computer vision",
+            "Machine Vision",
+            "Image Processing",
+            "Drone",
+            "UAV",
+            "Visual Localisation"
+        ],
         "name": "Terence Morley",
         "orcid": "https://orcid.org/0000-0001-7588-6457",
         "role": "Lecturer",
@@ -1102,6 +1393,10 @@
         ],
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": "https://dblp.org/pid/02/2855",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Tim Morris",
         "orcid": "https://orcid.org/0000-0001-5334-4913",
         "role": "Senior Lecturer",
@@ -1127,6 +1422,18 @@
     {
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
+        "dblp": null,
+        "keywords": [
+            "QC Physics",
+            "Nanophysics",
+            "Nanomagnetism",
+            "Skyrmionics",
+            "Spintronics",
+            "X-ray experiments",
+            "Computational Physics",
+            "QA75 Electronic computers. Computer science",
+            "Digital Futures"
+        ],
         "name": "Christoforos Moutafis",
         "orcid": "https://orcid.org/0000-0002-2006-9203",
         "role": "Senior Lecturer",
@@ -1154,6 +1461,16 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Sustainable Futures",
+            "Machine Learning",
+            "Computer Vision",
+            "Text Mining",
+            "Natural Language Processing",
+            "Scientific data analytics"
+        ],
         "name": "Tingting Mu",
         "orcid": "https://orcid.org/0000-0001-6315-3432",
         "role": "Senior Lecturer",
@@ -1177,6 +1494,13 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Institute for Data Science and AI",
+            "Neural Networks and Deep Learning",
+            "Stochastic Optimization"
+        ],
         "name": "Anirbit Mukherjee",
         "orcid": "https://orcid.org/0000-0001-5189-8939",
         "role": "Lecturer in Machine Learning",
@@ -1201,6 +1525,17 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": "https://dblp.org/pid/134/5628",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Information Security",
+            "Data Privacy",
+            "Smart Grid",
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Energy",
+            "Manchester Energy"
+        ],
         "name": "Mustafa Mustafa",
         "orcid": "https://orcid.org/0000-0002-8772-8023",
         "role": "Senior Lecturer, Lead of Trusted Digital Systems cluster",
@@ -1227,6 +1562,19 @@
     {
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "natural language processing",
+            "Institute for Data Science and AI",
+            "Digital Futures",
+            "Christabel Pankhurst Institute",
+            "Biomedical Text Mining",
+            "Clinical Text mining",
+            "Natural Language Processing",
+            "Text Analytics",
+            "Text Mining"
+        ],
         "name": "Goran Nenadic",
         "orcid": "https://orcid.org/0000-0003-0795-5363",
         "role": "Professor",
@@ -1252,6 +1600,15 @@
     {
         "area": "Machine Learning and Robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI",
+            "Sustainable Futures",
+            "Machine Learning",
+            "Robotics",
+            "Control Theory"
+        ],
         "name": "Wei Pan",
         "orcid": "https://orcid.org/0000-0003-1121-9879",
         "role": "Senior Lecturer",
@@ -1277,6 +1634,10 @@
     {
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Paul Nutter",
         "orcid": "https://orcid.org/0000-0003-4075-861X",
         "role": "Reader, Director of Undergraduate Studies",
@@ -1300,6 +1661,16 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Systems Software",
+            "Operating Systems",
+            "Virtualization",
+            "Hypervisors",
+            "Systems Security",
+            "Unikernel"
+        ],
         "name": "Pierre Olivier",
         "orcid": null,
         "role": "Senior Lecturer",
@@ -1325,6 +1696,10 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/61/4345",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Bijan Parsia",
         "orcid": null,
         "role": "Professor",
@@ -1351,6 +1726,10 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/p/NWPaton",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Norman Paton",
         "orcid": "https://orcid.org/0000-0003-2008-6617",
         "role": "Professor",
@@ -1376,6 +1755,10 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Vasileios Pavlidis",
         "orcid": "https://orcid.org/0000-0002-4063-4652",
         "role": "Senior Lecturer",
@@ -1399,6 +1782,10 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": "https://dblp.org/pid/03/630",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Pavlos Petoumenos",
         "orcid": "https://orcid.org/0000-0002-1497-6536",
         "role": "Lecturer",
@@ -1424,6 +1811,11 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Stephen Pettifer",
         "orcid": "https://orcid.org/0000-0002-1809-5621",
         "role": "Professor, Director of Teaching Strategy, Associate Dean for Teaching",
@@ -1450,6 +1842,14 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": "https://dblp.org/pid/60/4630",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Mathematical Logic",
+            "Theoretical Linguistics",
+            "Complexity Theory",
+            "Digital Futures"
+        ],
         "name": "Ian Pratt-Hartmann",
         "orcid": "https://orcid.org/0000-0003-0062-043X",
         "role": "Senior Lecturer",
@@ -1476,6 +1876,8 @@
     {
         "area": "Teaching",
         "area_url": null,
+        "dblp": null,
+        "keywords": [],
         "name": "Joseph Razavi",
         "orcid": null,
         "role": "Lecturer",
@@ -1485,6 +1887,10 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": "https://dblp.org/pid/118/0099",
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Giles Reger",
         "orcid": "https://orcid.org/0000-0001-6353-952X",
         "role": "Senior Lecturer",
@@ -1510,6 +1916,10 @@
     {
         "area": " Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Oliver Rhodes",
         "orcid": "https://orcid.org/0000-0003-1728-2828",
         "role": "Senior Lecturer",
@@ -1533,6 +1943,10 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Graham Riley",
         "orcid": "https://orcid.org/0000-0001-7023-517X",
         "role": "Lecturer",
@@ -1558,6 +1972,10 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/48/2",
+        "keywords": [
+            "Computer Science"
+        ],
         "name": "Rizos Sakellariou",
         "orcid": "https://orcid.org/0000-0002-6104-6649",
         "role": "Professor",
@@ -1583,6 +2001,11 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": null,
+        "keywords": [
+            "Sustainable Futures",
+            "Digital Futures"
+        ],
         "name": "Sandra Sampaio",
         "orcid": "https://orcid.org/0000-0002-3751-4182",
         "role": "Lecturer",
@@ -1592,6 +2015,15 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/s/UlrikeSattler",
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Logic",
+            "Automated Reasoning",
+            "Ontology Engineering",
+            "Description Logics",
+            "Digital Futures"
+        ],
         "name": "Uli Sattler",
         "orcid": "https://orcid.org/0000-0003-4103-3389",
         "role": "Professor, Deputy Head of Department",
@@ -1617,6 +2049,8 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": "https://dblp.org/pid/58/498",
+        "keywords": [],
         "name": "Andrea Schalk",
         "orcid": "https://orcid.org/0000-0003-2300-0962",
         "role": "Senior Lecturer",
@@ -1640,6 +2074,11 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": "https://dblp.org/pid/s/RenateASchmidt",
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI"
+        ],
         "name": "Renate Schmidt",
         "orcid": "https://orcid.org/0000-0002-6673-3333",
         "role": "Reader",
@@ -1665,6 +2104,15 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/s/JonathanShapiro",
+        "keywords": [
+            "Digital Futures",
+            "Estimation of Distribution Algorithms",
+            "Evolutionary Computation",
+            "Learning in Games",
+            "Machine Learning",
+            "Reinforcement Learning"
+        ],
         "name": "Jonathan Shapiro",
         "orcid": "https://orcid.org/0000-0002-9572-9544",
         "role": "Reader",
@@ -1690,6 +2138,19 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/36/354",
+        "keywords": [
+            "QA76 Computer software",
+            "QA75 Electronic computers. Computer science",
+            "BC Logic",
+            "ZA4050 Electronic information resources",
+            "Q Science (General)",
+            "QD Chemistry",
+            "QH426 Genetics",
+            "RS Pharmacy and materia medica",
+            "AZ History of Scholarship The Humanities",
+            "Institute for Data Science and AI"
+        ],
         "name": "Stian Soiland-Reyes",
         "orcid": "https://orcid.org/0000-0001-9842-9718",
         "role": "Senior Lecturer",
@@ -1717,6 +2178,11 @@
     {
         "area": null,
         "area_url": null,
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Manchester Institute for Collaborative Research on Ageing"
+        ],
         "name": "Andrew Stewart",
         "orcid": "https://orcid.org/0000-0002-9795-4104",
         "role": "Head of Department",
@@ -1743,6 +2209,11 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": "https://dblp.org/pid/s/RobertStevens",
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Robert Stevens",
         "orcid": null,
         "role": "Professor",
@@ -1769,6 +2240,10 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Mingfei Sun",
         "orcid": "https://orcid.org/0000-0002-5925-5425",
         "role": "Lecturer",
@@ -1794,6 +2269,13 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "AI Safety",
+            "Security",
+            "Automated Reasoning"
+        ],
         "name": "Youcheng Sun",
         "orcid": "https://orcid.org/0000-0002-1893-6259",
         "role": "Lecturer",
@@ -1818,6 +2300,13 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": "https://dblp.org/pid/37/6755",
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI",
+            "Christabel Pankhurst Institute",
+            "Creative Manchester"
+        ],
         "name": "Chris Taylor",
         "orcid": "https://orcid.org/0000-0001-7867-9533",
         "role": "Professor, Associate VP Digital Strategy and Innovation",
@@ -1845,6 +2334,12 @@
     {
         "area": "Nano-engineering and spintronic technologies",
         "area_url": "/research/expertise/nano-engineering/",
+        "dblp": null,
+        "keywords": [
+            "Advanced materials",
+            "Digital Futures",
+            "National Graphene Institute"
+        ],
         "name": "Thomas Thomson",
         "orcid": "https://orcid.org/0000-0002-4110-1567",
         "role": "Professor",
@@ -1854,6 +2349,10 @@
     {
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures"
+        ],
         "name": "Junichi Tsujii",
         "orcid": null,
         "role": "Professor, Scientific Advisor of NaCTeM",
@@ -1883,6 +2382,12 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute",
+            "Manchester Environmental Research Institute"
+        ],
         "name": "Markel Vigo",
         "orcid": "https://orcid.org/0000-0003-4768-7623",
         "role": "Reader",
@@ -1909,6 +2414,8 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
+        "dblp": null,
+        "keywords": [],
         "name": "Andrei Voronkov",
         "orcid": null,
         "role": "Professor",
@@ -1933,6 +2440,12 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "Sustainable Futures",
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Xiao-Jun Zeng",
         "orcid": "https://orcid.org/0000-0002-2320-2495",
         "role": "Professor of Machine Learning",
@@ -1959,6 +2472,12 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": "https://dblp.org/pid/z/NingZhang",
+        "keywords": [
+            "Digital Futures",
+            "Institute for Data Science and AI",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Ning Zhang",
         "orcid": "https://orcid.org/0000-0001-9519-9128",
         "role": "Senior Lecturer",
@@ -1984,6 +2503,11 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
+        "dblp": null,
+        "keywords": [
+            "Digital Futures",
+            "Christabel Pankhurst Institute"
+        ],
         "name": "Liping Zhao",
         "orcid": "https://orcid.org/0000-0001-8556-8655",
         "role": "Senior Lecturer",
@@ -2009,6 +2533,8 @@
     {
         "area": "Robotics, Control, Communications & AI",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [],
         "name": "Philip Zhao",
         "orcid": null,
         "role": "Senior Lecturer",
@@ -2035,6 +2561,12 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
+        "dblp": null,
+        "keywords": [
+            "QA75 Electronic computers. Computer science",
+            "Q Science (General)",
+            "Digital Futures"
+        ],
         "name": "Hongpeng Zhou",
         "orcid": "https://orcid.org/0000-0002-3894-0116",
         "role": "Dame Kathleen Ollerenshaw Fellow",

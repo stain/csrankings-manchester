@@ -95,7 +95,8 @@ def main():
     # Find ORCIDs  and keywords in research profile
     for p in staff:
         if "orcid" in p and p["orcid"]:
-            continue
+            pass
+            #continue
         p["orcid"] = None
         p["keywords"] = []
         if not p["url"] or not "research.manchester.ac.uk" in p["url"]:
@@ -110,7 +111,7 @@ def main():
                 p["orcid"] = url
             for keywords in soup.find_all("div", class_="keyword-group"):
                 for k in keywords.find("ul").find_all("li"):
-                    p.keywords.append(k.text.strip())
+                    p["keywords"].append(k.text.strip())
 
     # Check dblp name
     for p in staff:
@@ -131,7 +132,7 @@ def main():
                 r = requests.get(r.url)
             else:
                 # try to be kind
-                time.sleep(0.5)
+                time.sleep(0.2)
 
             if r.status_code != 200:
                 print("Warning, dblp status:", r.status_code)
@@ -141,17 +142,22 @@ def main():
                 print("Warning, dblp error:", dblp)
                 continue
             print(".", end="")
-            for h in dblp["result"]["hits"]["hit"]:
+            #print(r.url"notes" in 
+            hits = dblp["result"]["hits"]
+            if not hits or not "hit" in hits:
+                continue
+            for h in hits["hit"]:
                 if not "notes" in h["info"]:
                     continue
                 notes = h["info"]["notes"]
                 if type(notes) == dict: # just one note..
                     notes = [notes]
                 for note in notes:
+                    note = note["note"]
                     if ("@type" in note and note["@type"] == "affiliation" and
                         "university of manchester" in note["text"].lower()):
                         # Pick up dblp PID
-                        p[dblp] = h["info"]["url"]
+                        p["dblp"] = h["info"]["url"]
                     
         
     # Write out CSV and JSON
