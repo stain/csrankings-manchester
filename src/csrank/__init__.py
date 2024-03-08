@@ -154,7 +154,7 @@ def main():
                 if type(notes) == dict: # just one note..
                     notes = [notes]
                 for note in notes:
-                    note = note["note"]
+                g    note = note["note"]
                     if not firstHit:
                         firstHit = h
                     if ("@type" in note and note["@type"] == "affiliation" and

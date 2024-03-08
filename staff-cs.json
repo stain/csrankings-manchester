@@ -3,6 +3,16 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/00/9830",
+        "dblp-info": {
+            "author": "Mauricio A. Álvarez",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "School of Computer Science, University of Manchester"
+                }
+            },
+            "url": "https://dblp.org/pid/00/9830"
+        },
         "keywords": [
             "Digital Futures",
             "Christabel Pankhurst Institute"
@@ -34,6 +44,16 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "dblp": "https://dblp.org/pid/47/4142",
+        "dblp-info": {
+            "author": "Sophia Ananiadou",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/47/4142"
+        },
         "keywords": [
             "Digital Futures",
             "Manchester Institute of Biotechnology",
@@ -102,6 +122,19 @@
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
         "dblp": "https://dblp.org/pid/92/11424",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Riza Batista-Navarro"
+            },
+            "author": "Riza Theresa Batista-Navarro",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/92/11424"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -256,6 +289,16 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/93/2057-1",
+        "dblp-info": {
+            "author": "Gavin Brown 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/93/2057-1"
+        },
         "keywords": [
             "Institute for Data Science and AI",
             "Digital Futures",
@@ -287,6 +330,16 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/79/4440",
+        "dblp-info": {
+            "author": "Angelo Cangelosi",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/79/4440"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Cognitive Robotics",
@@ -440,6 +493,16 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "dblp": "https://dblp.org/pid/49/10484",
+        "dblp-info": {
+            "author": "Sarah Clinch",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/49/10484"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -606,6 +669,19 @@
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
         "dblp": "https://dblp.org/pid/58/1750",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Louise Abigail Dennis"
+            },
+            "author": "Louise A. Dennis",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/58/1750"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Formal Verification",
@@ -717,6 +793,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/e/SMEmbury",
+        "dblp-info": {
+            "author": "Suzanne M. Embury",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/e/SMEmbury"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Software testing",
@@ -986,6 +1072,19 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "dblp": "https://dblp.org/pid/60/4660",
+        "dblp-info": {
+            "aliases": {
+                "alias": "James Garside"
+            },
+            "author": "Jim D. Garside",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/60/4660"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -999,6 +1098,19 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/g/CaroleAGoble",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Carole Anne Goble"
+            },
+            "author": "Carole A. Goble",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/g/CaroleAGoble"
+        },
         "keywords": [
             "Digital Futures",
             "Christabel Pankhurst Institute"
@@ -1072,6 +1184,16 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "dblp": "https://dblp.org/pid/h/SimonHarper",
+        "dblp-info": {
+            "author": "Simon Harper",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/h/SimonHarper"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "QA76 Computer software",
@@ -1135,6 +1257,16 @@
         "area": "Teaching",
         "area_url": null,
         "dblp": "https://dblp.org/pid/h/DuncanHull",
+        "dblp-info": {
+            "author": "Duncan Hull",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/h/DuncanHull"
+        },
         "keywords": [
             "L Education (General)",
             "Q Science (General)",
@@ -1244,6 +1376,16 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/53/358",
+        "dblp-info": {
+            "author": "John A. Keane",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/53/358"
+        },
         "keywords": [
             "Sustainable Futures",
             "Digital Futures",
@@ -1291,6 +1433,16 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "dblp": "https://dblp.org/pid/k/KonstantinKorovin",
+        "dblp-info": {
+            "author": "Konstantin Korovin",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/k/KonstantinKorovin"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Logic, reasoning, formal methods, combination of reasoning and machine learning",
@@ -1362,6 +1514,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/l/KungKiuLau",
+        "dblp-info": {
+            "author": "Kung-Kiu Lau",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/l/KungKiuLau"
+        },
         "keywords": [
             "Digital Futures",
             "Institute for Data Science and AI"
@@ -1548,6 +1710,19 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "dblp": "https://dblp.org/pid/02/2855",
+        "dblp-info": {
+            "aliases": {
+                "alias": "D. T. Morris 0001"
+            },
+            "author": "Tim Morris 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, Department of Computer Science, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/02/2855"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -1680,6 +1855,19 @@
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
         "dblp": "https://dblp.org/pid/134/5628",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Mustafa Asan Mustafa"
+            },
+            "author": "Mustafa A. Mustafa",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/134/5628"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Information Security",
@@ -1851,6 +2039,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/61/4345",
+        "dblp-info": {
+            "author": "Bijan Parsia",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/61/4345"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -1881,6 +2079,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/p/NWPaton",
+        "dblp-info": {
+            "author": "Norman W. Paton",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/p/NWPaton"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -1937,6 +2145,16 @@
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
         "dblp": "https://dblp.org/pid/03/630",
+        "dblp-info": {
+            "author": "Pavlos Petoumenos",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/03/630"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -1997,6 +2215,22 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "dblp": "https://dblp.org/pid/60/4630",
+        "dblp-info": {
+            "aliases": {
+                "alias": [
+                    "Ian E. Pratt",
+                    "Ian Pratt 0002"
+                ]
+            },
+            "author": "Ian Pratt-Hartmann",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/60/4630"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Mathematical Logic",
@@ -2042,6 +2276,16 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "dblp": "https://dblp.org/pid/118/0099",
+        "dblp-info": {
+            "author": "Giles Reger",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/118/0099"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -2127,6 +2371,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/48/2",
+        "dblp-info": {
+            "author": "Rizos Sakellariou",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/48/2"
+        },
         "keywords": [
             "Computer Science"
         ],
@@ -2170,6 +2424,19 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/s/UlrikeSattler",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Uli Sattler"
+            },
+            "author": "Ulrike Sattler",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester"
+                }
+            },
+            "url": "https://dblp.org/pid/s/UlrikeSattler"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Logic",
@@ -2204,6 +2471,16 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "dblp": "https://dblp.org/pid/58/498",
+        "dblp-info": {
+            "author": "Andrea Schalk",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "The University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/58/498"
+        },
         "keywords": [],
         "name": "Andrea Schalk",
         "orcid": "https://orcid.org/0000-0003-2300-0962",
@@ -2229,6 +2506,16 @@
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
         "dblp": "https://dblp.org/pid/s/RenateASchmidt",
+        "dblp-info": {
+            "author": "Renate A. Schmidt",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/s/RenateASchmidt"
+        },
         "keywords": [
             "Digital Futures",
             "Institute for Data Science and AI"
@@ -2259,6 +2546,19 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/s/JonathanShapiro",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Jonathan Shapiro"
+            },
+            "author": "Jonathan L. Shapiro",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/s/JonathanShapiro"
+        },
         "keywords": [
             "Digital Futures",
             "Estimation of Distribution Algorithms",
@@ -2293,6 +2593,19 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/36/354",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Stian Soiland"
+            },
+            "author": "Stian Soiland-Reyes",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester"
+                }
+            },
+            "url": "https://dblp.org/pid/36/354"
+        },
         "keywords": [
             "QA76 Computer software",
             "QA75 Electronic computers. Computer science",
@@ -2383,6 +2696,19 @@
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
         "dblp": "https://dblp.org/pid/s/RobertStevens",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Robert D. Stevens"
+            },
+            "author": "Robert Stevens 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/s/RobertStevens"
+        },
         "keywords": [
             "Digital Futures",
             "Christabel Pankhurst Institute"
@@ -2474,6 +2800,19 @@
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
         "dblp": "https://dblp.org/pid/37/6755",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Chris J. Taylor 0001"
+            },
+            "author": "Christopher J. Taylor 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of Manchester, Centre for Imaging"
+                }
+            },
+            "url": "https://dblp.org/pid/37/6755"
+        },
         "keywords": [
             "Digital Futures",
             "Institute for Data Science and AI",
@@ -2695,6 +3034,16 @@
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
         "dblp": "https://dblp.org/pid/z/NingZhang",
+        "dblp-info": {
+            "author": "Ning Zhang 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "The University of Manchester, UK"
+                }
+            },
+            "url": "https://dblp.org/pid/z/NingZhang"
+        },
         "keywords": [
             "Digital Futures",
             "Institute for Data Science and AI",
