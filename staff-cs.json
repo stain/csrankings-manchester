@@ -378,7 +378,26 @@
     {
         "area": "Machine learning and robotics",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/c/KCCChang",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Kevin Chang 0001"
+            },
+            "author": "Kevin Chen-Chuan Chang",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Illinois at Urbana-Champaign, IL, USA"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Stanford, Department of Electrical Engineering, Stanford, CA, USA"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/c/KCCChang"
+        },
         "keywords": [
             "Institute for Data Science and AI",
             "Digital Futures",
@@ -450,7 +469,38 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/129/3810",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Emily I. M. Collins"
+            },
+            "author": "Emily Collins 0001",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "Cardiff University, School of Psychology, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Bath, School of Management, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Birmingham, Department of Psychology, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University College London, Interaction Centre, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "Goldsmiths University of London, Department of Psychology, UK"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/129/3810"
+        },
         "keywords": [
             "Christabel Pankhurst Institute"
         ],
@@ -481,7 +531,34 @@
     {
         "area": "Systems and software security",
         "area_url": "/research/expertise/systems-and-software-security/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/42/4311",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Lucas Carvalho Cordeiro"
+            },
+            "author": "Lucas C. Cordeiro",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Oxford, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "Federal University of Amazonas (UFAM), Brazil"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Southampton, UK"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/42/4311"
+        },
         "keywords": [
             "Digital Futures",
             "Software Engineering",
@@ -564,7 +641,23 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/d/ClareDixon",
+        "dblp-info": {
+            "author": "Clare Dixon",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Liverpool, UK"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/d/ClareDixon"
+        },
         "keywords": [
             "QA75 Electronic computers. Computer science",
             "Verification, Automated Reasoning, Logics, Artificiial Intelligence, Reliable Autonomy and Robotics"
@@ -658,7 +751,23 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/204/9365",
+        "dblp-info": {
+            "author": "Marie Farrell",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "Maynooth University, Ireland"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/204/9365"
+        },
         "keywords": [],
         "name": "Marie Farrell",
         "orcid": "https://orcid.org/0000-0001-7708-3877",
@@ -685,7 +794,23 @@
     {
         "area": "Autonomy and verification",
         "area_url": "/research/expertise/autonomy-and-verification/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/f/MichaelFisher",
+        "dblp-info": {
+            "author": "Michael Fisher 0001",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Liverpool, UK"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/f/MichaelFisher"
+        },
         "keywords": [],
         "name": "Michael Fisher",
         "orcid": null,
@@ -741,7 +866,17 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/202/5554",
+        "dblp-info": {
+            "author": "Ricardo André Pereira Freitas",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "Lusíada University, Vila Nova de Famalicão, Portugal"
+                }
+            },
+            "url": "https://dblp.org/pid/202/5554"
+        },
         "keywords": [
             "Digital Futures",
             "Thomas Ashton Institute"
@@ -772,7 +907,26 @@
     {
         "area": "Advanced processor technologies",
         "area_url": "/research/expertise/advanced-processor-technologies/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/f/StephenBFurber",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Stephen B. Furber"
+            },
+            "author": "Steve B. Furber",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, School of Computer Science, UK"
+                    },
+                    {
+                        "@type": "award",
+                        "text": "Computer Pioneer Award"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/f/StephenBFurber"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -2178,7 +2332,26 @@
     {
         "area": null,
         "area_url": null,
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/63/4211",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Graeme Andrew Stewart"
+            },
+            "author": "Graeme A. Stewart",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "CERN, Switzerland"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Glasgow, Department of Physics, UK"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/63/4211"
+        },
         "keywords": [
             "Digital Futures",
             "Manchester Institute for Collaborative Research on Ageing"
@@ -2349,7 +2522,20 @@
     {
         "area": "Natural language processing and text mining",
         "area_url": "/research/expertise/natural-language-processing/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/t/JunichiTsujii",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Junichi Tsujii"
+            },
+            "author": "Jun&apos;ichi Tsujii",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "National Institute for Advanced Industrial Science and Technology, Japan"
+                }
+            },
+            "url": "https://dblp.org/pid/t/JunichiTsujii"
+        },
         "keywords": [
             "Digital Futures"
         ],
@@ -2382,7 +2568,23 @@
     {
         "area": "Human computer systems",
         "area_url": "/research/expertise/human-computer-systems/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/79/7015",
+        "dblp-info": {
+            "author": "Markel Vigo",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, School of Computer Science, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "University of the Basque Country, San Sebastián, Spain"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/79/7015"
+        },
         "keywords": [
             "Digital Futures",
             "Christabel Pankhurst Institute",
@@ -2414,7 +2616,27 @@
     {
         "area": "Formal methods",
         "area_url": "/research/expertise/formal-methods/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/v/AndreiVoronkov",
+        "dblp-info": {
+            "author": "Andrei Voronkov",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "Chalmers University of Technology, Sweden"
+                    },
+                    {
+                        "@type": "award",
+                        "text": "Herbrand Award"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/v/AndreiVoronkov"
+        },
         "keywords": [],
         "name": "Andrei Voronkov",
         "orcid": null,
@@ -2503,7 +2725,23 @@
     {
         "area": "Information management",
         "area_url": "/research/expertise/information-management/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/32/3188-1",
+        "dblp-info": {
+            "author": "Liping Zhao 0001",
+            "notes": {
+                "note": [
+                    {
+                        "@type": "affiliation",
+                        "text": "University of Manchester, School of Computer Science, UK"
+                    },
+                    {
+                        "@type": "affiliation",
+                        "text": "Melbourne Institute of Technology, VIC, Australia"
+                    }
+                ]
+            },
+            "url": "https://dblp.org/pid/32/3188-1"
+        },
         "keywords": [
             "Digital Futures",
             "Christabel Pankhurst Institute"
@@ -2533,7 +2771,20 @@
     {
         "area": "Robotics, Control, Communications & AI",
         "area_url": "/research/expertise/machine-learning-and-robotics/",
-        "dblp": null,
+        "dblp": "https://dblp.org/pid/236/4741-1",
+        "dblp-info": {
+            "aliases": {
+                "alias": "Ruihan Philip Zhao"
+            },
+            "author": "Ruihan Zhao 0001",
+            "notes": {
+                "note": {
+                    "@type": "affiliation",
+                    "text": "University of California, Berkeley, CA, USA"
+                }
+            },
+            "url": "https://dblp.org/pid/236/4741-1"
+        },
         "keywords": [],
         "name": "Philip Zhao",
         "orcid": null,

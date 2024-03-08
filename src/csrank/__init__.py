@@ -115,7 +115,7 @@ def main():
 
     # Check dblp name
     for p in staff:
-        if "dblp" in p and p["dblp"]:
+        if "dblp" in p and p["dblp"] and "dblp-info" in p:
             continue
         p["dblp"] = None
         with requests.get("https://dblp.org/search/author/api",
@@ -146,6 +146,7 @@ def main():
             hits = dblp["result"]["hits"]
             if not hits or not "hit" in hits:
                 continue
+            firstHit = None
             for h in hits["hit"]:
                 if not "notes" in h["info"]:
                     continue
@@ -154,12 +155,17 @@ def main():
                     notes = [notes]
                 for note in notes:
                     note = note["note"]
+                    if not firstHit:
+                        firstHit = h
                     if ("@type" in note and note["@type"] == "affiliation" and
                         "university of manchester" in note["text"].lower()):
                         # Pick up dblp PID
                         p["dblp"] = h["info"]["url"]
-                    
-        
+                        p["dblp-info"] = h["info"]
+            if not p["dblp"] and firstHit: # let's ignore affiliation and hope for first one
+                p["dblp"] = firstHit["info"]["url"]
+                p["dblp-info"] = firstHit["info"]
+            
     # Write out CSV and JSON
     with open("staff-cs.csv", "w", encoding="utf-8") as f:
         w = csv.writer(f, dialect="excel")
