@@ -7,6 +7,7 @@ import csv
 import urllib
 import json
 from scholarly import scholarly
+import time
 
 def main():
     staff = []
@@ -49,6 +50,8 @@ def main():
                 "scholar_id": None,
                 "scholar": None,
                 "orcid": None,
+                "keywords": None,
+                "dblp": None
             }
             url = person and person.find("a")
             if url:
@@ -77,21 +80,24 @@ def main():
         if searching or not authors:
             authors = scholarly.search_author(p["name"] + ", Manchester")
 
+        # Try to be nice
+        time.sleep(0.1)
+
         for cand in authors:
             print(cand)
-            if searching and not ("University of Manchester" in cand["affiliation"] or
-                "manchester.ac.uk" in cand["email_domain"]):
+            if searching and not ("university of manchester" in cand["affiliation"].lower() or
+                "manchester.ac.uk" in cand["email_domain"]).lower():
                 continue
             p["scholar_id"] = cand["scholar_id"]
             p["scholar"] = cand
             break
 
-    # Find ORCIDs in research profile
-    
+    # Find ORCIDs  and keywords in research profile
     for p in staff:
         if "orcid" in p and p["orcid"]:
             continue
         p["orcid"] = None
+        p["keywords"] = []
         if not p["url"] or not "research.manchester.ac.uk" in p["url"]:
             continue # not the research portal
         with requests.get(p["url"]) as r:
@@ -102,15 +108,58 @@ def main():
                 if not "https://orcid.org/" in url:
                     continue
                 p["orcid"] = url
+            for keywords in soup.find_all("div", class_="keyword-group"):
+                for k in keywords.find("ul").find_all("li"):
+                    p.keywords.append(k.text.strip())
 
+    # Check dblp name
+    for p in staff:
+        if "dblp" in p and p["dblp"]:
+            continue
+        p["dblp"] = None
+        with requests.get("https://dblp.org/search/author/api",
+                    params=[("format","json"),
+                            ("q", p["name"])]) as r:
+            if r.status_code == 429:
+                retry = 10
+                retry_s = r.headers.get("Retry-After")
+                if retry_s:
+                    retry = max(min(int(retry_s)+1, 600), 1)
+                print("429 rate limited, waiting", retry, "seconds")
+                time.sleep(retry)
+                # Retry once
+                r = requests.get(r.url)
+            else:
+                # try to be kind
+                time.sleep(0.5)
 
+            if r.status_code != 200:
+                print("Warning, dblp status:", r.status_code)
+                continue
+            dblp = r.json()
+            if not dblp or dblp["result"]["status"]["@code"] != "200":
+                print("Warning, dblp error:", dblp)
+                continue
+            print(".", end="")
+            for h in dblp["result"]["hits"]["hit"]:
+                if not "notes" in h["info"]:
+                    continue
+                notes = h["info"]["notes"]
+                if type(notes) == dict: # just one note..
+                    notes = [notes]
+                for note in notes:
+                    if ("@type" in note and note["@type"] == "affiliation" and
+                        "university of manchester" in note["text"].lower()):
+                        # Pick up dblp PID
+                        p[dblp] = h["info"]["url"]
+                    
+        
     # Write out CSV and JSON
-
     with open("staff-cs.csv", "w", encoding="utf-8") as f:
         w = csv.writer(f, dialect="excel")
-        w.writerow(("name", "role", "url", "scholar_id", "orcid"))
+        w.writerow(("name", "role", "url", "scholar_id", "orcid", "dblp"))
         for p in staff:
-            w.writerow((p["name"], p["role"], p["url"], p["scholar_id"], p["orcid"]))    
+            w.writerow((p["name"], p["role"], p["url"], p["scholar_id"], p["orcid"], p["dblp"]))    
 
     with open("staff-cs.json", "w", encoding="utf-8") as f:
         json.dump(staff, f, sort_keys=True, indent=4, ensure_ascii=False)
